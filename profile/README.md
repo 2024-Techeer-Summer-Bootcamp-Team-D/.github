@@ -10,6 +10,7 @@
 <p align="center">
   <img width="500" alt="image" src="![첫번째 사진](https://github.com/user-attachments/assets/e04343ee-60fa-49dd-8e6e-3eab61671a5d.jpg)
 ">
+  <br>
 </p>
 
 ## 🎨 Introduce
