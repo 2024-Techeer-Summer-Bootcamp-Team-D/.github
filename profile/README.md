@@ -44,7 +44,7 @@
 
 ## 🌈 Feature
 
-### ☁️ 회원가입 및 로그인 ☁️ <br>
+### 🎶 회원가입 및 로그인 🎶 <br>
 <p align="left">
 
 
@@ -53,12 +53,12 @@
 <br>
 
 
-###   ☁️ 뮤직비디오 생성하기☁️
--다양한 옵션을 선택하여 나만의 뮤직비디오를 만들어 보세요.
+###   🎶 뮤직비디오 생성하기 🎶
+- 다양한 옵션을 선택하여 나만의 뮤직비디오를 만들어 보세요.
 
 <img width="700" alt="image" src="https://github.com/2024-Techeer-Summer-Bootcamp-Team-D/.github/blob/main/images/%E1%84%82%E1%85%A1%E1%84%8B%E1%85%B4-%E1%84%83%E1%85%A9%E1%86%BC%E1%84%8B%E1%85%A7%E1%86%BC%E1%84%89%E1%85%A1%E1%86%BC.gif"> <br>
 
-- 다이어리 배경지 선택 후 생성되는 링크로 친구들과 다이어리를 공유해 보세요. 
+- 생성된 뮤직비디오를 감상하고 소셜미디어에 공유해보세요. 
 
 <img width="700" alt="image" src="https://github.com/2023-Winter-techeer-Bootcamp-Team-E/.github/assets/127114299/f1a9a578-c881-4598-9eea-745cff132fed">
 
