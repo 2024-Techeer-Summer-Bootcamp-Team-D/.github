@@ -48,7 +48,7 @@
 <p align="left">
 
 
-<img width="700" alt="image" src="[https://github.com/2023-Winter-techeer-Bootcamp-Team-E/.github/assets/127114299/daa97424-29d0-4fa5-a001-0cf6bfd19008](https://github.com/2024-Techeer-Summer-Bootcamp-Team-D/.github/blob/main/images/%E1%84%92%E1%85%AA%E1%84%86%E1%85%A7%E1%86%AB%20%E1%84%80%E1%85%B5%E1%84%85%E1%85%A9%E1%86%A8%202024-07-12%2010.16.12%20(online-video-cutter.com).gif)">
+<img width="700" alt="image" src="[https://github.com/2023-Winter-techeer-Bootcamp-Team-E/.github/assets/127114299/daa97424-29d0-4fa5-a001-0cf6bfd19008](https://github.com/2024-Techeer-Summer-Bootcamp-Team-D/.github/raw/main/images/%E1%84%92%E1%85%AA%E1%84%86%E1%85%A7%E1%86%AB%20%E1%84%80%E1%85%B5%E1%84%85%E1%85%A9%E1%86%A8%202024-07-12%2010.16.12%20(online-video-cutter.com).gif)">
 <br>
 <br>
 
