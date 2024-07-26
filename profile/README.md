@@ -8,8 +8,7 @@
 </p>
 
 <p align="center">
-  <img width="500" alt="image" src="![첫번째 사진](https://github.com/user-attachments/assets/e04343ee-60fa-49dd-8e6e-3eab61671a5d.jpg)
-">
+  <img width="500" alt="image" src="https://github.com/2024-Techeer-Summer-Bootcamp-Team-D/.github/raw/main/images/8F34FCF5-C942-4F79-8BF2-167E0A463374.png">
   <br>
 </p>
 
