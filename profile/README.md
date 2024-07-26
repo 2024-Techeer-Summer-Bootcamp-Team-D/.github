@@ -65,6 +65,13 @@
 <br>
 <br>
 
+
+## 🔑 ERD
+<p align="left">
+<img width="700" src="">
+</p>
+
+
 ## 💻 Tech Stack
 
 <div align =center>
