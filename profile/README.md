@@ -64,7 +64,10 @@
 
 <br>
 <br>
-
+## 🛠 ️System Architecture
+<p align="left">
+<img width="700" src="">
+</p>
 
 ## 🔑 ERD
 <p align="left">
