@@ -27,7 +27,7 @@
 <br/>
 <p class="highlighted-text">🎵 나만의 독창적인 뮤직비디오를 손쉽게 만들어 보세요! 🎵</p>
 <br><br>"MVstudio"는 사용자가 선택한 다양한 옵션을 바탕으로 AI가 맞춤형 뮤직비디오를 생성해주는 웹 플랫폼입니다.
-<br><br>사용자는 원하는 장르와 악기등과 함께 특정 주제나 분위기를 지정하여 자신만의 뮤직비디오를 만들 수 있으며, AI 기술을 활용하여 높은 퀄리티의 결과물을 빠르게 얻을 수 있습니다.
+<br><br>사용자는 원하는 장르, 악기등과 함께 특정 주제나 분위기를 지정하여 자신만의 뮤직비디오를 만들 수 있으며, AI 기술을 활용하여 높은 퀄리티의 결과물을 빠르게 얻을 수 있습니다.
 <br><br>완성된 뮤직비디오는 소셜 미디어에 공유하거나 개인 프로젝트에 활용할 수 있습니다.
 <br/><br/>
 </br>
@@ -71,11 +71,11 @@
 
 분야| 사용 기술|
 :--------:|:------------------------------------:|
-**Fronted** | <img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black"> <img src="https://img.shields.io/badge/styledcomponents-DB7093?style=for-the-badge&logo=styledcomponents&logoColor=white"><img src="https://img.shields.io/badge/css3-1572B6?style=for-the-badge&logo=css3&logoColor=white"> <img src="https://img.shields.io/badge/vite-646CFF?style=for-the-badge&logo=vite&logoColor=white"> <img src="https://img.shields.io/badge/axios-5A29E4?style=for-the-badge&logo=axios&logoColor=white"> <img src="https://img.shields.io/badge/prettier-F7B93E?style=for-the-badge&logo=prettier&logoColor=white"> <img src="https://img.shields.io/badge/figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white">  <img src="https://img.shields.io/badge/eslint-4B32C3?style=for-the-badge&logo=eslint&logoColor=white"> <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"> 
+**Fronted** | <img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black"> <img src="https://img.shields.io/badge/styledcomponents-DB7093?style=for-the-badge&logo=styledcomponents&logoColor=white"><img src="https://img.shields.io/badge/css3-1572B6?style=for-the-badge&logo=css3&logoColor=white"> <img src="https://img.shields.io/badge/vite-646CFF?style=for-the-badge&logo=vite&logoColor=white"> <img src="https://img.shields.io/badge/axios-5A29E4?style=for-the-badge&logo=axios&logoColor=white"> <img src="https://img.shields.io/badge/prettier-F7B93E?style=for-the-badge&logo=prettier&logoColor=white">  <img src="https://img.shields.io/badge/eslint-4B32C3?style=for-the-badge&logo=eslint&logoColor=white"> <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"> 
 **Backend** | 
 **DevOps** |
 **Monitoring** |  
-**etc** |  <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white"><img src="https://img.shields.io/badge/slack-4A154B?style=for-the-badge&logo=slack&logoColor=white"><img src="https://img.shields.io/badge/notion-000000?style=for-the-badge&logo=notion&logoColor=white"><img src="https://img.shields.io/badge/zoom-0B5CFF?style=for-the-badge&logo=zoom&logoColor=black">
+**etc** |  <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white"><img src="https://img.shields.io/badge/slack-4A154B?style=for-the-badge&logo=slack&logoColor=white"><img src="https://img.shields.io/badge/notion-000000?style=for-the-badge&logo=notion&logoColor=white"><img src="https://img.shields.io/badge/zoom-0B5CFF?style=for-the-badge&logo=zoom&logoColor=black"> <img src="https://img.shields.io/badge/figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white">
 </div>
 
 
