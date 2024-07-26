@@ -20,7 +20,7 @@
     <tbody>
     <tr>
          <td width="600" align="center">
-            <img width="300" alt="image" src="![MVStudio](https://github.com/user-attachments/assets/f7690e01-7f2b-4e64-92bb-801be4f4e1a3)">
+            <img width="300" alt="image" src="https://github.com/2024-Techeer-Summer-Bootcamp-Team-D/.github/blob/main/images/logo.png">
         </td>
         <td width="600" align="center">
             <div align="left">
