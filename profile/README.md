@@ -1,4 +1,4 @@
-<h1 align="center">
+k<h1 align="center">
   🎧  MVstudio 🎧
 </h1>
 <div align="center" style="font-size:18px"> 
@@ -89,7 +89,7 @@
 
 | **Category**           | **Technologies**                                           |
 |------------------------|------------------------------------------------------------|
-| **Frontend**           | React, Styled-Components, Css3, Vite,A xios, Prettier,  JavaScript, Eslint Zustand |
+| **Frontend**           | React, Styled-Components, Css3, Vite, Axios, Prettier, JavaScript, Eslint, Zustand |
 | **Backend**            |              |
 | **Web Server**         | Nginx                                                      |
 | **Asynchronous**       |                                        |
@@ -98,7 +98,7 @@
 | **Deployment**         |                                           |
 | **API Test**           |                                                    |
 | **API Documentation**  |                                                    |
-| **Others**             | Github, Slack, Notion, Zoom,  Figma               |
+| **Others**             | Github, Slack, Notion, Zoom, Figma               |
 
 
 ## 📗 API
@@ -107,10 +107,6 @@
 
 <img width="1212" alt="image" src="https://github.com/2024-Techeer-Summer-Bootcamp-Team-D/.github/blob/main/images/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA%202024-07-27%20%E1%84%8B%E1%85%A9%E1%84%8C%E1%85%A5%E1%86%AB%2012.41.04.png">
 <img width="1212" alt="image" src="https://github.com/2024-Techeer-Summer-Bootcamp-Team-D/.github/blob/main/images/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA%202024-07-27%20%E1%84%8B%E1%85%A9%E1%84%8C%E1%85%A5%E1%86%AB%2012.41.24.png">
-
-| Members API | Musicvideos API |Oauth API|Chart API|                                                                                                                                                                             
-|-------------|-------------------------------------|-----------|-----------|
-|/members : 본인 회원 정보 조회 API<br>/members/countries : 국가 리스트 조회 API<br>/members/details/{username} : 회원 정보 조회/수정/삭제 API<br>/members/login : 로그인 API<br>/members/logout : 로그아웃 API<br>/members/payments : 결제 API<br>/members/payments/callback/{id}/(cancel/fail/success) : 결제 콜백 API<br>/members/refresh : Access Token 재발급 API<br>/members/sign-up : 회원가입 API|/music-videos : 뮤직비디오 목록 조회/생성 API<br>/music-videos/develop : 뮤직비디오 생성 API<br>/music-videos/genres : 장르 리스트 조회 API<br>/music-videos/histories : 뮤직비디오 시청 기록 조회/생성/수정 API<br>/music-videos/instruments : 악기 리스트 조회 API<br>/music-videos/lyrics : 가사 생성 API<br>/music-videos/searches : 뮤직비디오 검색 API<br>/music-videos/status/{task_id} : 뮤직비디오 제작 상태 확인 API<br>/music-videos/styles : 장르 스타일 리스트 조회 API<br>/music-videos/{mv_id} : 뮤직비디오 상세 정보 조회/삭제 API|/oauth/login/google : Google 로그인 API<br>/oauth/login/google/callback : Google 로그인 콜백 API<br>/oauth/youtube-channel : YouTube 채널 연동 API<br>/oauth/youtube-channel/callback : YouTube 채널 연동 콜백 API<br>/oauth/youtube/callback : YouTube 콜백 API<br>/oauth/youtube/{mv_id} : YouTube 업로드 API|/charts/{username}/ages : 연령별 통계 차트 조회 API<br>/charts/{username}/countries : 국가별 통계 차트 조회 API<br>/charts/{username}/daily : 일별 조회수 통계 차트 조회 API<br>/charts/{username}/genders : 성별 통계 차트 조회 API
 
 
 
