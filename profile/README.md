@@ -89,7 +89,7 @@ https://가즈아~
 
 ## 🔑 ERD
 <p align="left">
-<img width="700" src="https://github.com/2024-Techeer-Summer-Bootcamp-Team-D/.github/blob/main/images/erd%20%E1%84%89%E1%85%A5%E1%86%AF%E1%84%80%E1%85%A8.png">
+<img width="700" src="images/MVStudio_ERD.png">
 </p>
 
 ***
