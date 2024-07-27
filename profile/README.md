@@ -60,8 +60,6 @@
 
 - 생성된 뮤직비디오를 감상하고 소셜미디어에 공유해보세요. 
 
-<img width="700" alt="image" src="https://github.com/2023-Winter-techeer-Bootcamp-Team-E/.github/assets/127114299/f1a9a578-c881-4598-9eea-745cff132fed">
-
 <br>
 <br>
 
