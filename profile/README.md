@@ -1,4 +1,4 @@
-k<h1 align="center">
+<h1 align="center">
   🎧  MVstudio 🎧
 </h1>
 <div align="center" style="font-size:18px"> 
@@ -8,9 +8,23 @@ k<h1 align="center">
 </p>
 
 <p align="center">
-  <img width="500" alt="image" src="https://github.com/2024-Techeer-Summer-Bootcamp-Team-D/.github/raw/main/images/8F34FCF5-C942-4F79-8BF2-167E0A463374.png">
+  <img width="900" alt="image" src="https://github.com/2024-Techeer-Summer-Bootcamp-Team-D/.github/raw/main/images/8F34FCF5-C942-4F79-8BF2-167E0A463374.png">
   <br>
 </p>
+
+***
+
+## 💻 Medium.com
+https://블로그내용정리~
+
+***
+
+## 📱 Production
+https://가즈아~
+<br>(현재 배포 중단)
+
+***
+
 
 ## 🎨 Introduce
 
@@ -41,6 +55,7 @@ k<h1 align="center">
 <br>
 <br>
 
+***
 
 ## 🌈 Feature
 
@@ -63,16 +78,21 @@ k<h1 align="center">
 <br>
 <br>
 
+***
+
 ## 🛠 ️System Architecture
 <p align="left">
 <img width="700" src="https://github.com/2024-Techeer-Summer-Bootcamp-Team-D/.github/blob/main/images/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA%202024-07-27%20%E1%84%8B%E1%85%A9%E1%84%8C%E1%85%A5%E1%86%AB%2012.23.55.png">
 </p>
+
+***
 
 ## 🔑 ERD
 <p align="left">
 <img width="700" src="https://github.com/2024-Techeer-Summer-Bootcamp-Team-D/.github/blob/main/images/erd%20%E1%84%89%E1%85%A5%E1%86%AF%E1%84%80%E1%85%A8.png">
 </p>
 
+***
 
 ## 💻 Tech Stack
 
@@ -80,7 +100,7 @@ k<h1 align="center">
 
 분야| 사용 기술|
 :--------:|:------------------------------------:|
-**Fronted** | <img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black"> <img src="https://img.shields.io/badge/reactquery-61DAFB?style=for-the-badge&logo=reactquery&logoColor=black"> <img src="https://img.shields.io/badge/styledcomponents-DB7093?style=for-the-badge&logo=styledcomponents&logoColor=white"> <img src="https://img.shields.io/badge/css3-1572B6?style=for-the-badge&logo=css3&logoColor=white"> <img src="https://img.shields.io/badge/vite-646CFF?style=for-the-badge&logo=vite&logoColor=white"> <img src="https://img.shields.io/badge/axios-5A29E4?style=for-the-badge&logo=axios&logoColor=white"> <img src="https://img.shields.io/badge/prettier-F7B93E?style=for-the-badge&logo=prettier&logoColor=white">  <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"> <img src="https://img.shields.io/badge/eslint-4B32C3?style=for-the-badge&logo=eslint&logoColor=white"> <img src="https://img.shields.io/badge/zustand-F3DF49?style=for-the-badge&logo=zustand&logoColor=white">
+**Fronted** | <img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black"> <img src="https://img.shields.io/badge/reactquery-61DAFB?style=for-the-badge&logo=reactquery&logoColor=black"> <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"> <img src="https://img.shields.io/badge/styledcomponents-DB7093?style=for-the-badge&logo=styledcomponents&logoColor=white"> <img src="https://img.shields.io/badge/css3-1572B6?style=for-the-badge&logo=css3&logoColor=white"> <img src="https://img.shields.io/badge/vite-646CFF?style=for-the-badge&logo=vite&logoColor=white"> <img src="https://img.shields.io/badge/axios-5A29E4?style=for-the-badge&logo=axios&logoColor=white"> <img src="https://img.shields.io/badge/prettier-F7B93E?style=for-the-badge&logo=prettier&logoColor=white">  <img src="https://img.shields.io/badge/eslint-4B32C3?style=for-the-badge&logo=eslint&logoColor=white"> <img src="https://img.shields.io/badge/zustand-F3DF49?style=for-the-badge&logo=zustand&logoColor=white">
 **Backend** | 
 **DevOps** |
 **Monitoring** |  
@@ -89,7 +109,7 @@ k<h1 align="center">
 
 | **Category**           | **Technologies**                                           |
 |------------------------|------------------------------------------------------------|
-| **Frontend**           | React, Styled-Components, Css3, Vite, Axios, Prettier, JavaScript, Eslint, Zustand |
+| **Frontend**           | React, ReactQuery, JavaScript, Styled-Components, Css3, Vite, Axios, Prettier,  Eslint, Zustand |
 | **Backend**            |              |
 | **Web Server**         | Nginx                                                      |
 | **Asynchronous**       |                                        |
@@ -100,6 +120,7 @@ k<h1 align="center">
 | **API Documentation**  |                                                    |
 | **Others**             | Github, Slack, Notion, Zoom, Figma               |
 
+***
 
 ## 📗 API
 
@@ -108,11 +129,7 @@ k<h1 align="center">
 <img width="1212" alt="image" src="https://github.com/2024-Techeer-Summer-Bootcamp-Team-D/.github/blob/main/images/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA%202024-07-27%20%E1%84%8B%E1%85%A9%E1%84%8C%E1%85%A5%E1%86%AB%2012.41.04.png">
 <img width="1212" alt="image" src="https://github.com/2024-Techeer-Summer-Bootcamp-Team-D/.github/blob/main/images/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA%202024-07-27%20%E1%84%8B%E1%85%A9%E1%84%8C%E1%85%A5%E1%86%AB%2012.41.24.png">
 
-
-
-
-
-
+***
 
 ## 👥 Team Members
 |Name|조진우|강기환|김진희|최호원|유성원|박유경|
