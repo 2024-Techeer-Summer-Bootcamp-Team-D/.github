@@ -135,6 +135,6 @@ https://가즈아~
 |Name|조진우|강기환|김진희|최호원|유성원|박유경|
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 |Profile|![조진우](https://github.com/jinoo0306.png)|![강기환](https://github.com/GiHwan2.png)|![김진희](https://github.com/kimzini.png)|![최호원](https://github.com/BMHowon.png)|![유성원](https://github.com/Youth-one.png)|![박유경](https://github.com/ukongee.png)|
-|Role|Leader, Backend|Backend|Backend|Frontend|Frontend|Frontend|
+|Role|Leader, Backend, Frontend, DevOps|Backend, DevOps|Backend, DevOps|Frontend, Design|Frontend, Design|Frontend, Design|
 |GitHub|[@jinoo0306](https://github.com/jinoo0306)|[@Gihwan2](https://github.com/Gihwan2)|[@kimzini](https://github.com/kimzini)|[@BMHowon](https://github.com/BMHowon)|[@Youth-one](https://github.com/Youth-one)|[@ukongee](https://github.com/ukongee)|
 
