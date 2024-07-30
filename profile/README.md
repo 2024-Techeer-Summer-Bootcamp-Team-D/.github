@@ -142,11 +142,11 @@ Field| Technology of use|
 
 ## 🚀 How To Start
 
-### git clone
+### 1. Clone The Repository
 ```
 https://github.com/2024-Techeer-Summer-Bootcamp-Team-D/MVStudio-Docker.git
 ```
-### env setting in the MVStudio-Docker folder
+### 2. ENV Setting In The MVStudio-Docker Folder
 * .env
 ```
 ELASTIC_VERSION=
@@ -194,7 +194,9 @@ REFRESH_TOKEN_SECRET=
 KAKAO_APP_ADMIN_KEY=
 CID=
 ```
-### Run Docker
+<br>
+
+### 3. Run Docker
 ```
 $ docker-compose -f docker-compose.prod.yml -f docker-compose.monitoring.yml up -d --build
 ```
