@@ -1,8 +1,11 @@
 <h1 align="center">🎧 MV Studio 🎧</h1>
 <div align="center"> 
-<h3><b>Let's Create Music videos and Share them Together! </b></h3> </div>
-<img align="center" width="1400" src="https://github.com/user-attachments/assets/5a7bc924-0502-4aa6-accb-644ac45a3561">
+<h3><b>Let's Create Music videos and Share them Together! </b></h3>
+<img width="1400" src="https://github.com/user-attachments/assets/5a7bc924-0502-4aa6-accb-644ac45a3561">
 
+### 나만의 독창적인 뮤직비디오를 손쉽게 만들어 보세요!
+🖥️ [MVStudio PAGE](https://mvstudio)
+</div>
 
 <br><br>
 
@@ -18,12 +21,13 @@
 * [Directory Structure](#-directory-structure)
 * [Team Members](#-team-members)
 
+<br>
 
 <br />
 
 ## 📣 Introduction
-### 나만의 독창적인 뮤직비디오를 손쉽게 만들어 보세요!
-  > 🖌️ [MVStudio Medium](https://medium.com) &emsp; 🖥️ [MVStudio PAGE](https://mvstudio)
+### 🖌️ More Information
+  > [MVStudio Medium](https://medium.com)
 
 <br>
 
@@ -38,7 +42,6 @@
 ## 🕺🏻 Demo
 <br>
 <div align="center">
-   <h3>Start MV Studio</h3>
    
   |**Onboarding Page**|**Login & Sign up**|
   |:-------------------:|:---------:|
@@ -47,7 +50,6 @@
   |<img width="400" alt="" src="">|<img width="400" alt="" src="">|
   
   <br>
-  <h3>Music Video</h3>
   
   |**Create Music Video**|
   |:-------------------:|
@@ -56,7 +58,6 @@
   |<img width="1000" alt="" src="">|
 
   <br>
-  <h3>Services</h3>
   
   |**My Page**|**Analyzing my channel**|
   |:-------------------:|:---------:|
@@ -70,15 +71,15 @@
 
 ## 📗 API
 
- <h3 align="left">charts</h3>
- <img align="center" width="1000" alt="charts" src="https://github.com/user-attachments/assets/aef0f280-3a65-40c2-8c32-2f3027465718">
-
+<h3 align="left">charts</h3>
+<img align="center" width="1000" alt="charts" src="https://github.com/user-attachments/assets/aef0f280-3a65-40c2-8c32-2f3027465718">
+<br><br>
 <h3 align="left">members</h3>
 <img align="center" width="1000" alt="members" src="https://github.com/user-attachments/assets/93f56572-e398-4810-a89b-4869fcae5ccb">
-
+<br><br>
 <h3 align="left">music-videos</h3>
 <img align="center" width="1000" alt="music-videos" src="https://github.com/user-attachments/assets/b4d3b0ca-14c2-4bdb-a63a-50dab395f1fe">
-
+<br><br>
 <h3 align="left">oauth</h3>
 <img align="center" width="1000" alt="oauth" src="https://github.com/user-attachments/assets/eb5ad6e6-3cee-41a2-b30a-e6584a400de3">
 
