@@ -1,7 +1,7 @@
 <h1 align="center">🎧 MV Studio 🎧</h1>
 <div align="center"> 
 <h3><b>Let's Create Music videos and Share them Together! </b></h3>
-<img width="1400" src="https://github.com/user-attachments/assets/5a7bc924-0502-4aa6-accb-644ac45a3561">
+<img width="11000" src="https://github.com/user-attachments/assets/5a7bc924-0502-4aa6-accb-644ac45a3561">
 
 ### 나만의 독창적인 뮤직비디오를 손쉽게 만들어 보세요!
 </div>
@@ -43,27 +43,61 @@
 <br>
 <div align="center">
    
-  |**Onboarding Page**|**Login & Sign up**|
-  |:-------------------:|:---------:|
-  |<img width="400" alt="Onboarding Page" src="https://github.com/2024-Techeer-Summer-Bootcamp-Team-D/.github/blob/main/images/%E1%84%92%E1%85%AA%E1%84%86%E1%85%A7%E1%86%AB%20%E1%84%80%E1%85%B5%E1%84%85%E1%85%A9%E1%86%A8%202024-07-12%2010.16.12%20(online-video-cutter.com).gif">|<img width="380" alt="Login & Sign up" src="https://github.com/2024-Techeer-Summer-Bootcamp-Team-D/.github/blob/main/images/%E1%84%82%E1%85%A1%E1%84%8B%E1%85%B4-%E1%84%83%E1%85%A9%E1%86%BC%E1%84%8B%E1%☝️85%A7%E1%86%BC%E1%84%89%E1%85%A1%E1%86%BC.gif">|
-  |**Main Page**|**Search Music Video**|
-  |<img width="400" alt="" src="">|<img width="400" alt="" src="">|
-  
-  <br>
-  
-  |**Create Music Video**|
-  |:-------------------:|
-  |<img width="1000" alt="" src="">|
-  |**Play Music Video**|
-  |<img width="1000" alt="" src="">|
+### Onboarding Page
+<img width="1000" alt="Onboarding Page" src="https://github.com/2024-Techeer-Summer-Bootcamp-Team-D/.github/blob/main/images/%E1%84%92%E1%85%AA%E1%84%86%E1%85%A7%E1%86%AB%20%E1%84%80%E1%85%B5%E1%84%85%E1%85%A9%E1%86%A8%202024-07-12%2010.16.12%20(online-video-cutter.com).gif">
 
-  <br>
+
+### Login & Sign up
+<br>
+<img width="1000" alt="Login & Sign up" src="https://github.com/2024-Techeer-Summer-Bootcamp-Team-D/.github/blob/main/images/%E1%84%82%E1%85%A1%E1%84%8B%E1%85%B4-%E1%84%83%E1%85%A9%E1%86%BC%E1%84%8B%E1%☝️85%A7%E1%86%BC%E1%84%89%E1%85%A1%E1%86%BC.gif">
+
+<br>
+
+### Main Page
+<br>
+<img width="1000" alt="" src="">
+
+<br>
+
+### Search Music Video
+<br>
+<img width="1000" alt="" src="">
+
+<br>
+
+### Create Music Video
+<br>
+<img width="1000" alt="" src="">
+
+<br>
+
+### Play Music Video
+<br>
+<img width="1000" alt="" src="">
+
+<br>
   
-  |**My Page**|**Analyzing my channel**|
-  |:-------------------:|:---------:|
-  |<img width="450" alt="" src="">|<img width="450" alt="" src="">|
-  |**Upload Music Video**|**Buy Credits**|
-  |<img width="450" alt="" src="">|<img width="450" alt="" src="">|
+### My Page
+<br>
+<img width="1000" alt="" src="">
+
+<br>
+
+### Analyzing my channel
+<br>
+<img width="1000" alt="" src="">
+
+<br>
+
+### Upload Music Video
+<br>
+<img width="1000" alt="" src="">
+
+<br>
+
+### Buy Credits
+<br>
+<img width="1000" alt="" src="">
 
 </div>
 
@@ -81,13 +115,13 @@
 <img align="center" width="1000" alt="music-videos" src="https://github.com/user-attachments/assets/b4d3b0ca-14c2-4bdb-a63a-50dab395f1fe">
 <br><br>
 <h3 align="left">oauth</h3>
-<img align="center" width="1000" alt="oauth" src="https://github.com/user-attachments/assets/eb5ad6e6-3cee-41a2-b30a-e6584a400de3">
+<img align="center" width="1000" alt="oauth" src="https://github.com/user-attachments/assets/eb5ad6e6-3cee-41a2-b30a-e6584a1000de3">
 
 <br><br>
 
 # 🛠 ️System Architecture <a name="-system-architecture"></a>
 <div align="center">
-  <img align="center" width="1000" src="https://github.com/user-attachments/assets/4effc7a9-b15e-4400-adaa-8357b70cfdbb">
+  <img align="center" width="1000" src="https://github.com/user-attachments/assets/4effc7a9-b15e-41000-adaa-8357b70cfdbb">
 </div>
 <br><br>
 
@@ -121,15 +155,15 @@ Field| Technology of use|
   
   |**Django**|
   |:---------:|
-  |<img width="450" alt="Django" src="">|
+  |<img width="1000" alt="Django" src="">|
   |**Node Exporter** |**Rds Exporter** |
-  |<img width="450" alt="Node Exporter" src="">|<img width="450" alt="Rds Exporter" src="">|
+  |<img width="1000" alt="Node Exporter" src="">|<img width="1000" alt="Rds Exporter" src="">|
   
   <h3 align="left">cAdvisor</h3>
   
   |**cAdvisor** |
   |:---------:|
-  |<img width="450" alt="cAdvisor" src="">|
+  |<img width="1000" alt="cAdvisor" src="">|
   
   <h3 align="left">ELK</h3>
   
