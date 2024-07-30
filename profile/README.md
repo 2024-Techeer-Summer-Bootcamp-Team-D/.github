@@ -161,21 +161,22 @@ Field| Technology of use|
 <div align="center">
   <h3 align="left">Prometheus & Grafana</h3>
   
-  |**Nginx**|**Node Exporter** |
+  |**Nginx**|**Node Exporter**|
   |:---------:|:-----------------:|
   |<img width="1000" alt="Django" src="https://github.com/user-attachments/assets/5a1d21e4-bb17-4579-9577-c06864a79302">|<img width="1000" alt="Node Exporter" src="https://github.com/user-attachments/assets/da1d15d4-b34d-4d72-910c-c768a2a70534">
   
-  <h3 align="left">Cloud Watch</h3>
+  <br>
   
-  |**Cloud Watch** |
+  |**Cloud Watch**|
   |:---------:|
   |<img width="1000" alt="Cloud Watch" src="https://github.com/user-attachments/assets/8d5293c1-ec6e-4743-b3b9-06c44a94c575">|
   
-  <h3 align="left">ELK</h3>
+  <br>
   
-  |**ELK** |
-  |:-------:|
-  |<img width="900" alt="ELK" src="">|
+  |**ELK**|
+  |:---------:|
+  |<img width="1000" alt="ELK2" src="https://github.com/user-attachments/assets/3e5d7125-2a92-44d4-bd33-eba6bbd4ac15">|
+  |<img width="1000" alt="ELK" src="https://github.com/user-attachments/assets/5991a158-203e-471f-b755-2c8de1a86050">|
 </div>
 
 <br>
