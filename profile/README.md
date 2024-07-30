@@ -6,7 +6,7 @@
 </p>
 <br>
 
-# 📖 TABLE OF CONTENTS
+## 📖 Table of contents
 * [Introduction](#-introduction)
 * [Demo](#-demo)
 * [API](#-api)
@@ -18,9 +18,10 @@
 * [Directory Structure](#-directory-structure)
 * [Team Members](#-team-members)
 
+
 <br />
 
-# 📣 INTRODUCTION
+## 📣 Introduction
 ### 나만의 독창적인 뮤직비디오를 손쉽게 만들어 보세요!
   > 🖌️ [MVStudio Medium](https://medium.com) &emsp; 🖥️ [MVStudio PAGE](https://mvstudio)
 
@@ -34,7 +35,7 @@
 
 <br >
 
-# 🕺🏻 DEMO
+## 🕺🏻 Demo
 <br>
 <div align="center">
    <h3>Start MV Studio</h3>
@@ -67,21 +68,23 @@
 
 <br>
 
-# 📗 API
+## 📗 API
 <img align="center" width="800" alt="charts" src="https://github.com/user-attachments/assets/aef0f280-3a65-40c2-8c32-2f3027465718">
 <img align="center" width="800" alt="members" src="https://github.com/user-attachments/assets/93f56572-e398-4810-a89b-4869fcae5ccb">
 <img align="center" width="800" alt="music-videos" src="https://github.com/user-attachments/assets/b4d3b0ca-14c2-4bdb-a63a-50dab395f1fe">
 <img align="center" width="800" alt="oauth" src="https://github.com/user-attachments/assets/eb5ad6e6-3cee-41a2-b30a-e6584a400de3">
 
-<br />
+<br><br>
 
-# 🛠 ️SYSTEM ARCHITECTURE
+## 🛠 ️System Architecture <a name="-system-architecture"></a>
 <img align="center" width="800" src="https://github.com/user-attachments/assets/4effc7a9-b15e-4400-adaa-8357b70cfdbb">
+<br><br>
 
-# 🔑 ERD
+## 🔑 ERD
 <img align="center" width="800" src="https://github.com/user-attachments/assets/55a76355-4840-433f-b721-415387c78a24">
+<br><br>
 
-# 💻 TECH STACK
+## 💻 Tech Stack
 
 <div align =center>
 
@@ -98,7 +101,7 @@ Field| Technology of use|
 
 <br>
 
-# 📊 MONITORING
+## 📊 Monitoring
 
 <div align="center">
   <h3>Prometheus & Grafana</h3>
@@ -122,8 +125,9 @@ Field| Technology of use|
   |<img width="900" alt="ELK" src="">|
 </div>
 
+<br>
 
-# 🚀 HOW TO START
+## 🚀 How To Start
 
 ### git clone
 ```
@@ -183,7 +187,7 @@ $ docker-compose -f docker-compose.prod.yml -f docker-compose.monitoring.yml up 
 ```
 <br>
 
-# 📂 DIRECTORY STRUCTURE
+## 📂 Directory Structure
 
 <details>
     <summary>MVStudio-Docker</summary>
@@ -220,7 +224,7 @@ $ docker-compose -f docker-compose.prod.yml -f docker-compose.monitoring.yml up 
 </details>
 <br>
 
-## 👥 TEAM MEMBERS
+## 👥 Team Members
 | Name | 조진우 | 강기환 | 김진희 | 최호원 | 유성원 | 박유경 |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 | Profile | <img src="https://github.com/jinoo0306.png" style="width:120px;height:120px;"> | <img src="https://github.com/GiHwan2.png" style="width:120px;height:120px;"> | <img src="https://github.com/kimzini.png" style="width:120px;height:120px;"> | <img src="https://github.com/BMHowon.png" style="width:120px;height:120px;"> | <img src="https://github.com/Youth-one.png" style="width:120px;height:120px;"> | <img src="https://github.com/ukongee.png" style="width:120px;height:120px;"> |
