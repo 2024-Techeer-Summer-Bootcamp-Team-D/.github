@@ -105,10 +105,25 @@
 
 # 📗 API
 
-<img align="center" width="1000" alt="charts" src="https://github.com/user-attachments/assets/aef0f280-3a65-40c2-8c32-2f3027465718">
-<img align="center" width="1000" alt="members" src="https://github.com/user-attachments/assets/93f56572-e398-4810-a89b-4869fcae5ccb">
-<img align="center" width="1000" alt="music-videos" src="https://github.com/user-attachments/assets/b4d3b0ca-14c2-4bdb-a63a-50dab395f1fe">
-<img align="center" width="1000" alt="oauth" src="https://github.com/user-attachments/assets/f910a641-c8f5-4d54-8222-98d34a49f806">
+ |**charts**|
+ |:-------------:|
+ |<img align="center" width="1000" alt="charts" src="https://github.com/user-attachments/assets/aef0f280-3a65-40c2-8c32-2f3027465718">|
+ <br>
+ 
+ |**members**|
+ |:-------------:|
+ |<img align="center" width="1000" alt="members" src="https://github.com/user-attachments/assets/93f56572-e398-4810-a89b-4869fcae5ccb">|
+ <br>
+ 
+ |**music-videos**|
+ |:-------------:|
+ |<img align="center" width="1000" alt="music-videos" src="https://github.com/user-attachments/assets/b4d3b0ca-14c2-4bdb-a63a-50dab395f1fe">|
+ <br>
+ 
+ |**oauth**|
+ |:-------------:|
+ |<img align="center" width="1000" alt="oauth" src="https://github.com/user-attachments/assets/f910a641-c8f5-4d54-8222-98d34a49f806">|
+
 
 <br><br>
 
