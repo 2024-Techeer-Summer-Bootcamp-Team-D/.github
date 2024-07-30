@@ -1,10 +1,10 @@
 <h1 align="center">🎧 MV Studio 🎧</h1>
 <div align="center"> 
 <h3><b>Let's Create Music videos and Share them Together! </b></h3> </div>
-<p align="center">
-  <img width="1000" alt="image" src=""><br>
-</p>
-<br>
+<img align="center" width="1400" src="https://github.com/user-attachments/assets/5a7bc924-0502-4aa6-accb-644ac45a3561">
+
+
+<br><br>
 
 ## 📖 Table of contents
 * [Introduction](#-introduction)
