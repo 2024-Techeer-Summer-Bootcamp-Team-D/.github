@@ -242,12 +242,16 @@
   |**ELK**|
   |:---------:|
   |<img width="1000" alt="ELK2" src="https://github.com/user-attachments/assets/3e5d7125-2a92-44d4-bd33-eba6bbd4ac15">|
-  |<img width="1000" alt="ELK" src="https://github.com/user-attachments/assets/5991a158-203e-471f-b755-2c8de1a86050">|
 </div>
 
 <br>
 
 # 🔧Logging
+<div align="center">
+|**ELK**|
+   |:---------:|
+   |<img width="1000" alt="ELK" src="https://github.com/user-attachments/assets/5991a158-203e-471f-b755-2c8de1a86050">|
+</div>
 
 # 🚀 How To Start
 
