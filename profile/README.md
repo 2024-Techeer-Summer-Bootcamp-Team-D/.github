@@ -117,7 +117,7 @@ Field| Technology of use|
 ## 📊 Monitoring
 
 <div align="center">
-  <h3>Prometheus & Grafana</h3>
+  <h3 align="left">Prometheus & Grafana</h3>
   
   |**Django**|
   |:---------:|
@@ -125,13 +125,13 @@ Field| Technology of use|
   |**Node Exporter** |**Rds Exporter** |
   |<img width="450" alt="Node Exporter" src="">|<img width="450" alt="Rds Exporter" src="">|
   
-  <h3>cAdvisor</h3>
+  <h3 align="left">cAdvisor</h3>
   
   |**cAdvisor** |
   |:---------:|
   |<img width="450" alt="cAdvisor" src="">|
   
-  <h3>ELK</h3>
+  <h3 align="left">ELK</h3>
   
   |**ELK** |
   |:-------:|
