@@ -223,9 +223,9 @@
 <div align="center">
   <h3 align="left">Prometheus & Grafana</h3>
   
-  |**Nginx**|**Node Exporter**|
+  |**cAdvisor**|**Node Exporter**|
   |:---------:|:-----------------:|
-  |<img width="1000" alt="Django" src="https://github.com/user-attachments/assets/5a1d21e4-bb17-4579-9577-c06864a79302">|<img width="1000" alt="Node Exporter" src="https://github.com/user-attachments/assets/da1d15d4-b34d-4d72-910c-c768a2a70534">
+  |<img width="1000" alt="cAdvisor" src="https://github.com/user-attachments/assets/5a1d21e4-bb17-4579-9577-c06864a79302">|<img width="1000" alt="Node Exporter" src="https://github.com/user-attachments/assets/da1d15d4-b34d-4d72-910c-c768a2a70534">
   
   <br>
   
