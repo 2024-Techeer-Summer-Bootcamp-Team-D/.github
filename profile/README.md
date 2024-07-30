@@ -6,6 +6,20 @@
 </p>
 <br>
 
+# 📖 TABLE OF CONTENTS
+* [Introduction](#-introduction)
+* [Demo](#-demo)
+* [API](#-api)
+* [System Architecture](#-system-architecture)
+* [ERD](#-erd)
+* [Tech Stack](#-tech-stack)
+* [Monitoring](#-monitoring)
+* [How to start](#-how-to-start)
+* [Directory Structure](#-directory-structure)
+* [Team Members](#-team-members)
+
+<br />
+
 # 📣 INTRODUCTION
 ### 나만의 독창적인 뮤직비디오를 손쉽게 만들어 보세요!
   > 🖌️ [MVStudio Medium](https://medium.com) &emsp; 🖥️ [MVStudio PAGE](https://mvstudio)
@@ -27,17 +41,12 @@
    
   |**Onboarding Page**|**Login & Sign up**|
   |:-------------------:|:---------:|
-  |<img width="450" alt="Onboarding Page" src="https://github.com/2024-Techeer-Summer-Bootcamp-Team-D/.github/blob/main/images/%E1%84%92%E1%85%AA%E1%84%86%E1%85%A7%E1%86%AB%20%E1%84%80%E1%85%B5%E1%84%85%E1%85%A9%E1%86%A8%202024-07-12%2010.16.12%20(online-video-cutter.com).gif">|<img width="450" alt="Login & Sign up" src="https://github.com/2024-Techeer-Summer-Bootcamp-Team-D/.github/blob/main/images/%E1%84%82%E1%85%A1%E1%84%8B%E1%85%B4-%E1%84%83%E1%85%A9%E1%86%BC%E1%84%8B%E1%85%A7%E1%86%BC%E1%84%89%E1%85%A1%E1%86%BC.gif">|
-
-  <br>
-  <h3>Home</h3>
-  
+  |<img width="400" alt="Onboarding Page" src="https://github.com/2024-Techeer-Summer-Bootcamp-Team-D/.github/blob/main/images/%E1%84%92%E1%85%AA%E1%84%86%E1%85%A7%E1%86%AB%20%E1%84%80%E1%85%B5%E1%84%85%E1%85%A9%E1%86%A8%202024-07-12%2010.16.12%20(online-video-cutter.com).gif">|<img width="380" alt="Login & Sign up" src="https://github.com/2024-Techeer-Summer-Bootcamp-Team-D/.github/blob/main/images/%E1%84%82%E1%85%A1%E1%84%8B%E1%85%B4-%E1%84%83%E1%85%A9%E1%86%BC%E1%84%8B%E1%☝️85%A7%E1%86%BC%E1%84%89%E1%85%A1%E1%86%BC.gif">|
   |**Main Page**|**Search Music Video**|
-  |:-------------------:|:---------:|
-  |<img width="450" alt="" src="">|<img width="450" alt="" src="">|
+  |<img width="400" alt="" src="">|<img width="400" alt="" src="">|
   
   <br>
-  <h3>Music video</h3>
+  <h3>Music Video</h3>
   
   |**Create Music Video**|
   |:-------------------:|
@@ -51,7 +60,7 @@
   |**My Page**|**Analyzing my channel**|
   |:-------------------:|:---------:|
   |<img width="450" alt="" src="">|<img width="450" alt="" src="">|
-  |**Upload Music Videoe**|**Buy Credits**|
+  |**Upload Music Video**|**Buy Credits**|
   |<img width="450" alt="" src="">|<img width="450" alt="" src="">|
 
 </div>
@@ -59,11 +68,10 @@
 <br>
 
 # 📗 API
-  <img align="center" width="1000" alt="charts" src="https://github.com/user-attachments/assets/aef0f280-3a65-40c2-8c32-2f3027465718">
-  <img align="center" width="1000" alt="members" src="https://github.com/user-attachments/assets/93f56572-e398-4810-a89b-4869fcae5ccb">
-  <img align="center" width="1000" alt="music-videos" src="https://github.com/user-attachments/assets/b4d3b0ca-14c2-4bdb-a63a-50dab395f1fe">
-  <img align="center" width="1000" alt="oauth" src="https://github.com/user-attachments/assets/eb5ad6e6-3cee-41a2-b30a-e6584a400de3">
-
+<img align="center" width="1000" alt="charts" src="https://github.com/user-attachments/assets/aef0f280-3a65-40c2-8c32-2f3027465718">
+<img align="center" width="1000" alt="members" src="https://github.com/user-attachments/assets/93f56572-e398-4810-a89b-4869fcae5ccb">
+<img align="center" width="1000" alt="music-videos" src="https://github.com/user-attachments/assets/b4d3b0ca-14c2-4bdb-a63a-50dab395f1fe">
+<img align="center" width="1000" alt="oauth" src="https://github.com/user-attachments/assets/eb5ad6e6-3cee-41a2-b30a-e6584a400de3">
 <br>
 
 # 🛠 ️SYSTEM ARCHITECTURE
@@ -95,10 +103,131 @@ Field| Technology of use|
 
 <br>
 
-## 👥 TEAM MEMBERS
-|Name|조진우|강기환|김진희|최호원|유성원|박유경|
-|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-|Profile|![조진우](https://github.com/jinoo0306.png)|![강기환](https://github.com/GiHwan2.png)|![김진희](https://github.com/kimzini.png)|![최호원](https://github.com/BMHowon.png)|![유성원](https://github.com/Youth-one.png)|![박유경](https://github.com/ukongee.png)|
-|Role|Leader, Backend, Frontend, DevOps|Backend, DevOps|Backend, DevOps|Frontend, Design|Frontend, Design|Frontend, Design|
-|GitHub|[@jinoo0306](https://github.com/jinoo0306)|[@Gihwan2](https://github.com/Gihwan2)|[@kimzini](https://github.com/kimzini)|[@BMHowon](https://github.com/BMHowon)|[@Youth-one](https://github.com/Youth-one)|[@ukongee](https://github.com/ukongee)|
+# 📊 MONITORING
 
+<div align="center">
+  <h3>Prometheus & Grafana</h3>
+  
+  |**Django**|
+  |:---------:|
+  |<img width="450" alt="Django" src="">|
+  |**Node Exporter** |**Rds Exporter** |
+  |<img width="450" alt="Node Exporter" src="">|<img width="450" alt="Rds Exporter" src="">|
+  
+  <h3>cAdvisor</h3>
+  
+  |**cAdvisor** |
+  |:---------:|
+  |<img width="450" alt="cAdvisor" src="">|
+  
+  <h3>ELK</h3>
+  
+  |**ELK** |
+  |:-------:|
+  |<img width="900" alt="ELK" src="">|
+</div>
+
+
+# 🚀 HOW TO START
+```
+https://github.com/2024-Techeer-Summer-Bootcamp-Team-D/MVStudio-Docker.git
+```
+### env setting in the MVStudio-Docker folder
+* .env
+```
+ELASTIC_VERSION=
+ELASTIC_PASSWORD=
+LOGSTASH_INTERNAL_PASSWORD=
+KIBANA_SYSTEM_PASSWORD=
+METRICBEAT_INTERNAL_PASSWORD=
+FILEBEAT_INTERNAL_PASSWORD=
+HEARTBEAT_INTERNAL_PASSWORD=
+MONITORING_INTERNAL_PASSWORD=
+BEATS_SYSTEM_PASSWORD=
+INIT_INDEX=
+```
+* MVStudio-Frontend/.env
+```
+VITE_REACT_APP_BASE_URL =
+```
+* MVStudio-Backend/.env
+```
+SECRET_KEY=
+DEBUG=True
+
+MYSQL_ROOT_PASSWORD=
+MYSQL_DATABASE=
+MYSQL_USER=
+MYSQL_PASSWORD=
+DATABASE_HOST=
+DB_SQL_MODE=
+
+AWS_ACCESS_KEY_ID=
+AWS_SECRET_ACCESS_KEY=
+AWS_STORAGE_BUCKET_NAME=
+AWS_S3_REGION_NAME=
+
+OPENAI_API_KEY=
+SUNO_API_KEY=
+
+SOCIAL_AUTH_GOOGLE_OAUTH2_KEY=
+SOCIAL_AUTH_GOOGLE_OAUTH2_SECRET=
+RUNWAYML_API_KEY=
+
+BASE_BACKEND_URL=
+BASE_FRONTEND_URL=
+REFRESH_TOKEN_SECRET=
+KAKAO_APP_ADMIN_KEY=
+CID=
+```
+### Run Docker
+```
+$ docker-compose -f docker-compose.prod.yml -f docker-compose.monitoring.yml up -d --build
+```
+<br>
+
+# 📂 DIRECTORY STRUCTURE
+
+<details>
+    <summary>MVStudio-Docker</summary>
+<pre>
+<code>
+
+📦MVStudio-Docker  
+
+</code>
+</pre>
+</details>
+
+
+<details>
+    <summary>MVStudio-Frontend</summary>
+<pre>
+<code>
+
+📦MVStudio-Frontend  
+
+</code>
+</pre>
+</details>
+
+<details>
+    <summary>MVStudio-Backend</summary>
+<pre>
+<code>
+
+📦MVStudio-Backend  
+
+</code>
+</pre>
+</details>
+<br>
+
+## 👥 TEAM MEMBERS
+| Name | 조진우 | 강기환 | 김진희 | 최호원 | 유성원 | 박유경 |
+|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+| Profile | <img src="https://github.com/jinoo0306.png" style="width:120px;height:120px;"> | <img src="https://github.com/GiHwan2.png" style="width:120px;height:120px;"> | <img src="https://github.com/kimzini.png" style="width:120px;height:120px;"> | <img src="https://github.com/BMHowon.png" style="width:120px;height:120px;"> | <img src="https://github.com/Youth-one.png" style="width:120px;height:120px;"> | <img src="https://github.com/ukongee.png" style="width:120px;height:120px;"> |
+| Role | Leader, Backend,<br> Frontend, DevOps | Backend, DevOps | Backend, DevOps | Frontend, Design | Frontend, Design | Frontend, Design |
+| GitHub | [@jinoo0306](https://github.com/jinoo0306) | [@Gihwan2](https://github.com/Gihwan2) | [@kimzini](https://github.com/kimzini) | [@BMHowon](https://github.com/BMHowon) | [@Youth-one](https://github.com/Youth-one) | [@ukongee](https://github.com/ukongee) |
+
+<br>
