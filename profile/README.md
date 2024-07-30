@@ -105,23 +105,16 @@
 
 # 📗 API
 
-<h3 align="left">charts</h3>
 <img align="center" width="1000" alt="charts" src="https://github.com/user-attachments/assets/aef0f280-3a65-40c2-8c32-2f3027465718">
-<br><br>
-<h3 align="left">members</h3>
 <img align="center" width="1000" alt="members" src="https://github.com/user-attachments/assets/93f56572-e398-4810-a89b-4869fcae5ccb">
-<br><br>
-<h3 align="left">music-videos</h3>
 <img align="center" width="1000" alt="music-videos" src="https://github.com/user-attachments/assets/b4d3b0ca-14c2-4bdb-a63a-50dab395f1fe">
-<br><br>
-<h3 align="left">oauth</h3>
-<img align="center" width="1000" alt="oauth" src="https://github.com/user-attachments/assets/eb5ad6e6-3cee-41a2-b30a-e6584a1000de3">
+<img align="center" width="1000" alt="oauth" src="https://github.com/user-attachments/assets/f910a641-c8f5-4d54-8222-98d34a49f806">
 
 <br><br>
 
 # 🛠 ️System Architecture <a name="-system-architecture"></a>
 <div align="center">
-  <img align="center" width="1000" src="https://github.com/user-attachments/assets/4effc7a9-b15e-41000-adaa-8357b70cfdbb">
+  <img align="center" width="1000" src="https://github.com/user-attachments/assets/35a552c8-eda4-4091-9756-11b10e273469">
 </div>
 <br><br>
 
