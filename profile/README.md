@@ -247,6 +247,8 @@
 
 <br>
 
+# 🔧Logging
+
 # 🚀 How To Start
 
 ### 1. Clone The Repository
