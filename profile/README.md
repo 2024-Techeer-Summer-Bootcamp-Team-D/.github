@@ -8,7 +8,7 @@
 <br><br>
 
 
-## 📖 Table of contents
+# 📖 Table of contents
 * [Introduction](#-introduction)
 * [Demo](#-demo)
 * [API](#-api)
@@ -22,12 +22,12 @@
 
 <br>
 
-## 📣 Introduction
-### Medium
-> 🔎 [MVStudio Medium](https://medium.com) &nbsp;
-
+# 📣 Introduction
 ### Url
 > 🖥️ [MVStudio](https://mvstudio)
+
+### Medium
+> 🔎 [MVStudio Medium](https://medium.com) &nbsp;
 
 <br>
 
@@ -39,7 +39,7 @@
 
 <br>
 
-## 🕺🏻 Demo
+# 🕺🏻 Demo
 <br>
 <div align="center">
    
@@ -69,7 +69,7 @@
 
 <br>
 
-## 📗 API
+# 📗 API
 
 <h3 align="left">charts</h3>
 <img align="center" width="1000" alt="charts" src="https://github.com/user-attachments/assets/aef0f280-3a65-40c2-8c32-2f3027465718">
@@ -85,19 +85,19 @@
 
 <br><br>
 
-## 🛠 ️System Architecture <a name="-system-architecture"></a>
+# 🛠 ️System Architecture <a name="-system-architecture"></a>
 <div align="center">
   <img align="center" width="1000" src="https://github.com/user-attachments/assets/4effc7a9-b15e-4400-adaa-8357b70cfdbb">
 </div>
 <br><br>
 
-## 🔑 ERD
+# 🔑 ERD
 <div align="center">
   <img width="1000" src="https://github.com/user-attachments/assets/55a76355-4840-433f-b721-415387c78a24">
 </div>
 <br><br>
 
-## 💻 Tech Stack
+# 💻 Tech Stack
 
 <div align =center>
 
@@ -114,7 +114,7 @@ Field| Technology of use|
 
 <br>
 
-## 📊 Monitoring
+# 📊 Monitoring
 
 <div align="center">
   <h3 align="left">Prometheus & Grafana</h3>
@@ -140,7 +140,7 @@ Field| Technology of use|
 
 <br>
 
-## 🚀 How To Start
+# 🚀 How To Start
 
 ### 1. Clone The Repository
 ```
@@ -202,7 +202,7 @@ $ docker-compose -f docker-compose.prod.yml -f docker-compose.monitoring.yml up 
 ```
 <br>
 
-## 📂 Directory Structure
+# 📂 Directory Structure
 
 <details>
     <summary>MVStudio-Docker</summary>
@@ -239,7 +239,7 @@ $ docker-compose -f docker-compose.prod.yml -f docker-compose.monitoring.yml up 
 </details>
 <br>
 
-## 👥 Team Members
+# 👥 Team Members
 | Name | 조진우 | 강기환 | 김진희 | 최호원 | 유성원 | 박유경 |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 | Profile | <img src="https://github.com/jinoo0306.png" style="width:120px;height:120px;"> | <img src="https://github.com/GiHwan2.png" style="width:120px;height:120px;"> | <img src="https://github.com/kimzini.png" style="width:120px;height:120px;"> | <img src="https://github.com/BMHowon.png" style="width:120px;height:120px;"> | <img src="https://github.com/Youth-one.png" style="width:120px;height:120px;"> | <img src="https://github.com/ukongee.png" style="width:120px;height:120px;"> |
