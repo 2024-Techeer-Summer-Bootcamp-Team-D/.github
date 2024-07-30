@@ -4,10 +4,9 @@
 <img width="1400" src="https://github.com/user-attachments/assets/5a7bc924-0502-4aa6-accb-644ac45a3561">
 
 ### 나만의 독창적인 뮤직비디오를 손쉽게 만들어 보세요!
-🖥️ [MVStudio](https://mvstudio)
 </div>
-
 <br><br>
+
 
 ## 📖 Table of contents
 * [Introduction](#-introduction)
@@ -24,16 +23,19 @@
 <br>
 
 ## 📣 Introduction
+### Medium
+> 🔎 [MVStudio Medium](https://medium.com) &nbsp;
+
+### Url
+> 🖥️ [MVStudio](https://mvstudio)
+
+<br>
+
 - **사용자가 선택한 다양한 옵션에 따라 맞춤형 뮤직비디오를 생성**
 - **AI 기술을 활용하여 높은 퀄리티의 뮤직비디오를 신속하게 제작**
 - **장르, 악기, 주제, 분위기를 자유롭게 지정 가능**
 - **완성된 뮤직비디오를 소셜 미디어에 쉽게 공유**
 - **제작한 뮤직비디오를 개인 프로젝트에 활용 가능**
-
-<br>
-
-##### 🖌️ More Information
-  > [MVStudio Medium](https://medium.com)
 
 <br>
 
