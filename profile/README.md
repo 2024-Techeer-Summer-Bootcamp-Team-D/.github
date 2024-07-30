@@ -41,65 +41,63 @@
 
 # 🕺🏻 Demo
 <br>
-<div align="center">
    
 ### Onboarding Page
-<img width="1000" alt="Onboarding Page" src="https://github.com/2024-Techeer-Summer-Bootcamp-Team-D/.github/blob/main/images/%E1%84%92%E1%85%AA%E1%84%86%E1%85%A7%E1%86%AB%20%E1%84%80%E1%85%B5%E1%84%85%E1%85%A9%E1%86%A8%202024-07-12%2010.16.12%20(online-video-cutter.com).gif">
+<img align="center" width="1000" alt="Onboarding Page" src="https://github.com/2024-Techeer-Summer-Bootcamp-Team-D/.github/blob/main/images/%E1%84%92%E1%85%AA%E1%84%86%E1%85%A7%E1%86%AB%20%E1%84%80%E1%85%B5%E1%84%85%E1%85%A9%E1%86%A8%202024-07-12%2010.16.12%20(online-video-cutter.com).gif">
 
 
 ### Login & Sign up
 <br>
-<img width="1000" alt="Login & Sign up" src="https://github.com/2024-Techeer-Summer-Bootcamp-Team-D/.github/blob/main/images/%E1%84%82%E1%85%A1%E1%84%8B%E1%85%B4-%E1%84%83%E1%85%A9%E1%86%BC%E1%84%8B%E1%☝️85%A7%E1%86%BC%E1%84%89%E1%85%A1%E1%86%BC.gif">
+<img align="center" width="1000" alt="Login & Sign up" src="https://github.com/2024-Techeer-Summer-Bootcamp-Team-D/.github/blob/main/images/%E1%84%82%E1%85%A1%E1%84%8B%E1%85%B4-%E1%84%83%E1%85%A9%E1%86%BC%E1%84%8B%E1%☝️85%A7%E1%86%BC%E1%84%89%E1%85%A1%E1%86%BC.gif">
 
 <br>
 
 ### Main Page
 <br>
-<img width="1000" alt="" src="">
+<img align="center" width="1000" alt="" src="">
 
 <br>
 
 ### Search Music Video
 <br>
-<img width="1000" alt="" src="">
+<img align="center" width="1000" alt="" src="">
 
 <br>
 
 ### Create Music Video
 <br>
-<img width="1000" alt="" src="">
+<img align="center" width="1000" alt="" src="">
 
 <br>
 
 ### Play Music Video
 <br>
-<img width="1000" alt="" src="">
+<img align="center" width="1000" alt="" src="">
 
 <br>
   
 ### My Page
 <br>
-<img width="1000" alt="" src="">
+<img align="center" width="1000" alt="" src="">
 
 <br>
 
 ### Analyzing my channel
 <br>
-<img width="1000" alt="" src="">
+<img align="center" width="1000" alt="" src="">
 
 <br>
 
 ### Upload Music Video
 <br>
-<img width="1000" alt="" src="">
+<img align="center" width="1000" alt="" src="">
 
 <br>
 
 ### Buy Credits
 <br>
-<img width="1000" alt="" src="">
+<img align="center" width="1000" alt="" src="">
 
-</div>
 
 <br>
 
