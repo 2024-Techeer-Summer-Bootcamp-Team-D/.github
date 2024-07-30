@@ -1,4 +1,4 @@
-# 🎧 MV Studio 
+<h1 align="center">🎧 MV Studio 🎧</h1>
 <div align="center"> 
 <h3><b>Let's Create Music videos and Share them Together! </b></h3> </div>
 <p align="center">
@@ -69,19 +69,31 @@
 <br>
 
 ## 📗 API
-<img align="center" width="800" alt="charts" src="https://github.com/user-attachments/assets/aef0f280-3a65-40c2-8c32-2f3027465718">
-<img align="center" width="800" alt="members" src="https://github.com/user-attachments/assets/93f56572-e398-4810-a89b-4869fcae5ccb">
-<img align="center" width="800" alt="music-videos" src="https://github.com/user-attachments/assets/b4d3b0ca-14c2-4bdb-a63a-50dab395f1fe">
-<img align="center" width="800" alt="oauth" src="https://github.com/user-attachments/assets/eb5ad6e6-3cee-41a2-b30a-e6584a400de3">
+
+ <h3 align="left">charts</h3>
+ <img align="center" width="1000" alt="charts" src="https://github.com/user-attachments/assets/aef0f280-3a65-40c2-8c32-2f3027465718">
+
+<h3 align="left">members</h3>
+<img align="center" width="1000" alt="members" src="https://github.com/user-attachments/assets/93f56572-e398-4810-a89b-4869fcae5ccb">
+
+<h3 align="left">music-videos</h3>
+<img align="center" width="1000" alt="music-videos" src="https://github.com/user-attachments/assets/b4d3b0ca-14c2-4bdb-a63a-50dab395f1fe">
+
+<h3 align="left">oauth</h3>
+<img align="center" width="1000" alt="oauth" src="https://github.com/user-attachments/assets/eb5ad6e6-3cee-41a2-b30a-e6584a400de3">
 
 <br><br>
 
 ## 🛠 ️System Architecture <a name="-system-architecture"></a>
-<img align="center" width="800" src="https://github.com/user-attachments/assets/4effc7a9-b15e-4400-adaa-8357b70cfdbb">
+<div align="center">
+  <img align="center" width="1000" src="https://github.com/user-attachments/assets/4effc7a9-b15e-4400-adaa-8357b70cfdbb">
+</div>
 <br><br>
 
 ## 🔑 ERD
-<img align="center" width="800" src="https://github.com/user-attachments/assets/55a76355-4840-433f-b721-415387c78a24">
+<div align="center">
+  <img width="1000" src="https://github.com/user-attachments/assets/55a76355-4840-433f-b721-415387c78a24">
+</div>
 <br><br>
 
 ## 💻 Tech Stack
