@@ -24,18 +24,18 @@
 <br>
 
 ## 📣 Introduction
-### 🖌️ More Information
-  > [MVStudio Medium](https://medium.com)
-
-<br>
-
 - **사용자가 선택한 다양한 옵션에 따라 맞춤형 뮤직비디오를 생성**
 - **AI 기술을 활용하여 높은 퀄리티의 뮤직비디오를 신속하게 제작**
 - **장르, 악기, 주제, 분위기를 자유롭게 지정 가능**
 - **완성된 뮤직비디오를 소셜 미디어에 쉽게 공유**
 - **제작한 뮤직비디오를 개인 프로젝트에 활용 가능**
 
-<br >
+<br>
+
+##### 🖌️ More Information
+  > [MVStudio Medium](https://medium.com)
+
+<br>
 
 ## 🕺🏻 Demo
 <br>
