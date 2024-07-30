@@ -161,11 +161,9 @@ Field| Technology of use|
 <div align="center">
   <h3 align="left">Prometheus & Grafana</h3>
   
-  |**Django**|
-  |:---------:|
-  |<img width="1000" alt="Django" src="">|
-  |**Node Exporter** |**Rds Exporter** |
-  |<img width="1000" alt="Node Exporter" src="">|<img width="1000" alt="Rds Exporter" src="">|
+  |**Django**|**Node Exporter** |
+  |:---------:|:-----------------:|
+  |<img width="1000" alt="Django" src="">|<img width="1000" alt="Node Exporter" src="https://github.com/user-attachments/assets/da1d15d4-b34d-4d72-910c-c768a2a70534">
   
   <h3 align="left">cAdvisor</h3>
   
