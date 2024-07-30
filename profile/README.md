@@ -4,7 +4,7 @@
 <img width="1400" src="https://github.com/user-attachments/assets/5a7bc924-0502-4aa6-accb-644ac45a3561">
 
 ### 나만의 독창적인 뮤직비디오를 손쉽게 만들어 보세요!
-🖥️ [MVStudio PAGE](https://mvstudio)
+🖥️ [MVStudio](https://mvstudio)
 </div>
 
 <br><br>
@@ -22,8 +22,6 @@
 * [Team Members](#-team-members)
 
 <br>
-
-<br />
 
 ## 📣 Introduction
 ### 🖌️ More Information
