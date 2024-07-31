@@ -52,7 +52,7 @@
 ### Login & Sign up
 > 구글 소셜 로그인 및 회원가입을 통해 손쉽게 로그인하실 수 있습니다.
 <br>
-<img align="center" width="1000" alt="Login & Sign up" src="https://github.com/user-attachments/assets/8d3a7e56-9730-4095-9a62-da1816e18152">
+<img align="center" width="1000" alt="Login & Sign up" src="https://github.com/user-attachments/assets/79d65247-8ad8-40f0-8436-e9d5c1b73b86">
 
 <br>
 
