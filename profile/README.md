@@ -52,7 +52,7 @@
 ### Login & Sign up
 > 구글 소셜 로그인 및 회원가입을 통해 손쉽게 로그인하실 수 있습니다.
 <br>
-<img align="center" width="1000" alt="Login & Sign up" src="https://github.com/2024-Techeer-Summer-Bootcamp-Team-D/.github/blob/main/images/%E1%84%82%E1%85%A1%E1%84%8B%E1%85%B4-%E1%84%83%E1%85%A9%E1%86%BC%E1%84%8B%E1%☝️85%A7%E1%86%BC%E1%84%89%E1%85%A1%E1%86%BC.gif">
+<img align="center" width="1000" alt="Login & Sign up" src="">
 
 <br>
 
