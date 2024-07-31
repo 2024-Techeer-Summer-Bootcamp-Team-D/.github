@@ -59,7 +59,7 @@
 ### Main Page
 > 다른 사람들의 뮤직비디오를 시청할 수 있으며, 최신순, 조회수순, 급상승, 자신의 국가와 나이대에서 인기순으로 목록을 조회할 수 있습니다.
 <br>
-<img align="center" width="1000" alt="" src="">
+<img align="center" width="1000" alt="" src="https://github.com/user-attachments/assets/b21859ca-1641-4086-b497-2432bf3122f7">
 
 <br>
 
