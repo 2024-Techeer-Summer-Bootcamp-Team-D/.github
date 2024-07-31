@@ -89,7 +89,7 @@
 ### My Page
 > 사용자는 마이페이지에서 자신이 만든 뮤직비디오와 최근에 시청한 뮤직비디오를 확인할 수 있습니다.
 <br>
-<img align="center" width="1000" alt="" src="">
+<img align="center" width="1000" alt="" src="https://github.com/user-attachments/assets/db9365d8-7e89-4de1-9886-d03406757de0">
 
 <br>
 
