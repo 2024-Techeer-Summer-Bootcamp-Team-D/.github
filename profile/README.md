@@ -74,7 +74,7 @@
 > 사용자는 장르, 악기, 영상 스타일, 제목, 보컬, 언어, 템포를 직접 설정하여 뮤직비디오를 생성할 수 있습니다.<br>
 > 선택한 설정을 바탕으로 제공되는 세 개의 가사 중 원하는 가사를 선택하면 해당 가사로 뮤직비디오가 생성됩니다.
 <br>
-<img align="center" width="1000" alt="" src="">
+<img align="center" width="1000" alt="" src="https://github.com/user-attachments/assets/6f9b6aeb-3b19-48b4-8dae-acf7af4c07b1">
 
 <br>
 
