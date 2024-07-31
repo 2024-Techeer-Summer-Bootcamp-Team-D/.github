@@ -66,7 +66,7 @@
 ### Search Music Video
 > 검색 기능을 통해 원하는 뮤직비디오를 쉽게 찾을 수 있습니다.
 <br>
-<img align="center" width="1000" alt="" src="">
+<img align="center" width="1000" alt="" src="https://github.com/user-attachments/assets/dc648d65-0ea9-4dc5-98e5-14f42ec4b256">
 
 <br>
 
