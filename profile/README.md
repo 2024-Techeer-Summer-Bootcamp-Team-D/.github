@@ -104,7 +104,7 @@
 ### Upload Music Video
 > 사용자는 자신의 뮤직비디오를 유튜브에 업로드할 수 있습니다.
 <br>
-<img align="center" width="1000" alt="" src="">
+<img align="center" width="1000" alt="" src="https://github.com/user-attachments/assets/f96e04b4-82d7-4e0c-b1dd-9e6ac1f8e486">
 
 <br>
 
