@@ -46,7 +46,7 @@
 # 🕺🏻 Demo
 ### Onboarding Page
 > MV Studio의 간략한 설명을 담고 있습니다.
-<img align="center" width="1000" alt="Onboarding Page" src="https://github.com/2024-Techeer-Summer-Bootcamp-Team-D/.github/blob/main/images/%E1%84%92%E1%85%AA%E1%84%86%E1%85%A7%E1%86%AB%20%E1%84%80%E1%85%B5%E1%84%85%E1%85%A9%E1%86%A8%202024-07-12%2010.16.12%20(online-video-cutter.com).gif">
+<img align="center" width="1000" alt="Onboarding Page" src="https://github.com/user-attachments/assets/39f6008d-2706-4ea6-a702-c943bdfb37a0">
 
 
 ### Login & Sign up
