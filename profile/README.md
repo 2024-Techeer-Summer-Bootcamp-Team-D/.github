@@ -82,7 +82,7 @@
 > 뮤직비디오를 클릭하면 재생 페이지로 이동하여 시청할 수 있습니다.<br>
 > 이 페이지에서 총 조회수, 만든 사람, 가사를 확인할 수 있으며 시청 도중 나중에 다시 와도 이전에 보던 부분부터 계속 시청할 수 있습니다.
 <br>
-<img align="center" width="1000" alt="" src="">
+<img align="center" width="1000" alt="" src="https://github.com/user-attachments/assets/b3268116-9b7e-42fb-b01f-354d919f03ab">
 
 <br>
   
