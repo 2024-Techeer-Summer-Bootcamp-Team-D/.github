@@ -1,9 +1,12 @@
 <h1 align="center">🎧 MV Studio 🎧</h1>
 <div align="center"> 
-<h3><b>Let's Create Music videos and Share them Together! </b></h3>
+<h3><b>Let's Create Music videos and Share them Together! </b></h3><br>
 <img width="11000" src="https://github.com/user-attachments/assets/5a7bc924-0502-4aa6-accb-644ac45a3561">
 
-### 나만의 독창적인 뮤직비디오를 손쉽게 만들어 보세요!
+<h3><b>MV Studio를 통해 창의적인 아이디어를 실현해 보세요!</b></h3>
+
+<br>
+
 </div>
 <br><br>
 
@@ -34,6 +37,7 @@
 - **사용자가 선택한 다양한 옵션에 따라 맞춤형 뮤직비디오를 생성**
 - **AI 기술을 활용하여 높은 퀄리티의 뮤직비디오를 신속하게 제작**
 - **장르, 악기, 주제, 분위기를 자유롭게 지정 가능**
+- **사용자 채널 관리 및 차트 기반 분석 제공**
 - **완성된 뮤직비디오를 소셜 미디어에 쉽게 공유**
 - **제작한 뮤직비디오를 개인 프로젝트에 활용 가능**
 
@@ -41,6 +45,7 @@
 
 # 🕺🏻 Demo
 ### Onboarding Page
+> MV Studio의 온보딩 페이지는 새로운 사용자가 플랫폼을 쉽고 빠르게 이해하고 활용할 수 있도록 설계되었습니다.
 <img align="center" width="1000" alt="Onboarding Page" src="https://github.com/2024-Techeer-Summer-Bootcamp-Team-D/.github/blob/main/images/%E1%84%92%E1%85%AA%E1%84%86%E1%85%A7%E1%86%AB%20%E1%84%80%E1%85%B5%E1%84%85%E1%85%A9%E1%86%A8%202024-07-12%2010.16.12%20(online-video-cutter.com).gif">
 
 
