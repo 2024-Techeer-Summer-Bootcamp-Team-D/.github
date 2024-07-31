@@ -88,6 +88,7 @@
   
 ### My Page
 > 사용자는 마이페이지에서 자신이 만든 뮤직비디오와 최근에 시청한 뮤직비디오를 확인할 수 있습니다.
+> 인스타그램과 유튜브 버튼을 통해 자신의 인스타그램과 유튜브 계정으로 바로 이동할 수 있습니다.
 <br>
 <img align="center" width="1000" alt="" src="https://github.com/user-attachments/assets/db9365d8-7e89-4de1-9886-d03406757de0">
 
@@ -132,7 +133,7 @@
 
 # 🛠 ️System Architecture <a name="-system-architecture"></a>
 <div align="center">
-  <img align="center" width="1000" src="https://github.com/user-attachments/assets/35a552c8-eda4-4091-9756-11b10e273469">
+  <img align="center" width="1000" src="https://github.com/user-attachments/assets/4d787a65-837f-42ff-b922-e470210ea897">
 </div>
 <br><br>
 
