@@ -111,7 +111,7 @@
 ### Buy Credits
 > 뮤직비디오 제작에 필요한 크레딧은 카카오페이를 통해 결제할 수 있습니다.
 <br>
-<img align="center" width="1000" alt="" src="">
+<img align="center" width="1000" alt="" src="https://github.com/user-attachments/assets/99b7d465-ff65-4b11-b836-532681a6bd29">
 
 
 <br>
