@@ -45,59 +45,70 @@
 
 # 🕺🏻 Demo
 ### Onboarding Page
-> MV Studio의 온보딩 페이지는 새로운 사용자가 플랫폼을 쉽고 빠르게 이해하고 활용할 수 있도록 설계되었습니다.
+> MV Studio의 간략한 설명을 담고 있습니다.
 <img align="center" width="1000" alt="Onboarding Page" src="https://github.com/2024-Techeer-Summer-Bootcamp-Team-D/.github/blob/main/images/%E1%84%92%E1%85%AA%E1%84%86%E1%85%A7%E1%86%AB%20%E1%84%80%E1%85%B5%E1%84%85%E1%85%A9%E1%86%A8%202024-07-12%2010.16.12%20(online-video-cutter.com).gif">
 
 
 ### Login & Sign up
+> 구글 소셜 로그인 및 회원가입을 통해 손쉽게 로그인하실 수 있습니다.
 <br>
 <img align="center" width="1000" alt="Login & Sign up" src="https://github.com/2024-Techeer-Summer-Bootcamp-Team-D/.github/blob/main/images/%E1%84%82%E1%85%A1%E1%84%8B%E1%85%B4-%E1%84%83%E1%85%A9%E1%86%BC%E1%84%8B%E1%☝️85%A7%E1%86%BC%E1%84%89%E1%85%A1%E1%86%BC.gif">
 
 <br>
 
 ### Main Page
+> 다른 사람들의 뮤직비디오를 시청할 수 있으며, 최신순, 조회수순, 급상승, 자신의 국가와 나이대에서 인기순으로 목록을 조회할 수 있습니다.
 <br>
 <img align="center" width="1000" alt="" src="">
 
 <br>
 
 ### Search Music Video
+> 검색 기능을 통해 원하는 뮤직비디오를 쉽게 찾을 수 있습니다.
 <br>
 <img align="center" width="1000" alt="" src="">
 
 <br>
 
 ### Create Music Video
+> 사용자는 장르, 악기, 영상 스타일, 제목, 보컬, 언어, 템포를 직접 설정하여 뮤직비디오를 생성할 수 있습니다.<br>
+> 선택한 설정을 바탕으로 제공되는 세 개의 가사 중 원하는 가사를 선택하면 해당 가사로 뮤직비디오가 생성됩니다.
 <br>
 <img align="center" width="1000" alt="" src="">
 
 <br>
 
 ### Play Music Video
+> 뮤직비디오를 클릭하면 재생 페이지로 이동하여 시청할 수 있습니다.<br>
+> 이 페이지에서 총 조회수, 만든 사람, 가사를 확인할 수 있으며 시청 도중 나중에 다시 와도 이전에 보던 부분부터 계속 시청할 수 있습니다.
 <br>
 <img align="center" width="1000" alt="" src="">
 
 <br>
   
 ### My Page
+> 사용자는 마이페이지에서 자신이 만든 뮤직비디오와 최근에 시청한 뮤직비디오를 확인할 수 있습니다.
 <br>
 <img align="center" width="1000" alt="" src="">
 
 <br>
 
 ### Analyzing my channel
+> 사용자는 자신이 만든 뮤직비디오의 시청 추이를 날짜별 조회수, 성별, 국가별, 연령대별 차트로 분석할 수 있습니다.
 <br>
 <img align="center" width="1000" alt="" src="">
 
 <br>
 
 ### Upload Music Video
+> 사용자는 자신의 뮤직비디오를 유튜브에 업로드할 수 있습니다.
 <br>
 <img align="center" width="1000" alt="" src="">
 
 <br>
 
 ### Buy Credits
+> 뮤직비디오 제작에 필요한 크레딧은 카카오페이를 통해 결제할 수 있습니다.
 <br>
 <img align="center" width="1000" alt="" src="">
 
@@ -284,7 +295,7 @@ VITE_REACT_APP_BASE_URL =
 * MVStudio-Backend/.env
 ```
 SECRET_KEY=
-DEBUG=True
+DEBUG=
 
 MYSQL_ROOT_PASSWORD=
 MYSQL_DATABASE=
