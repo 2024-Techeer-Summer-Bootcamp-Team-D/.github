@@ -368,10 +368,43 @@ $ docker-compose -f docker-compose.prod.yml -f docker-compose.monitoring.yml up 
 <br>
 
 # 👥 Team Members
-| Name | 조진우 | 강기환 | 김진희 | 최호원 | 유성원 | 박유경 |
-|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-| Profile | <img src="https://github.com/jinoo0306.png" style="width:120px;height:120px;"> | <img src="https://github.com/GiHwan2.png" style="width:120px;height:120px;"> | <img src="https://github.com/kimzini.png" style="width:120px;height:120px;"> | <img src="https://github.com/BMHowon.png" style="width:120px;height:120px;"> | <img src="https://github.com/Youth-one.png" style="width:120px;height:120px;"> | <img src="https://github.com/ukongee.png" style="width:120px;height:120px;"> |
-| Role | Leader, Backend,<br> Frontend, DevOps | Backend, DevOps | Backend, DevOps | Frontend, Design | Frontend, Design | Frontend, Design |
-| GitHub | [@jinoo0306](https://github.com/jinoo0306) | [@Gihwan2](https://github.com/Gihwan2) | [@kimzini](https://github.com/kimzini) | [@BMHowon](https://github.com/BMHowon) | [@Youth-one](https://github.com/Youth-one) | [@ukongee](https://github.com/ukongee) |
-
+<h2>👥 Team Members</h2>
+<table>
+  <tr>
+    <th>Name</th>
+    <th>조진우</th>
+    <th>강기환</th>
+    <th>김진희</th>
+    <th>최호원</th>
+    <th>유성원</th>
+    <th>박유경</th>
+  </tr>
+  <tr>
+    <th>Profile</th>
+    <td><img src="https://github.com/jinoo0306.png" style="width:120px;height:120px;"></td>
+    <td><img src="https://github.com/GiHwan2.png" style="width:120px;height:120px;"></td>
+    <td><img src="https://github.com/kimzini.png" style="width:120px;height:120px;"></td>
+    <td><img src="https://github.com/BMHowon.png" style="width:120px;height:120px;"></td>
+    <td><img src="https://github.com/Youth-one.png" style="width:120px;height:120px;"></td>
+    <td><img src="https://github.com/ukongee.png" style="width:120px;height:120px;"></td>
+  </tr>
+  <tr>
+    <th>Role</th>
+    <td>Leader, Backend,<br> Frontend, DevOps</td>
+    <td>Backend, DevOps</td>
+    <td>Backend, DevOps</td>
+    <td>Frontend, Design</td>
+    <td>Frontend, Design</td>
+    <td>Frontend, Design</td>
+  </tr>
+  <tr>
+    <th>GitHub</th>
+    <td><a href="https://github.com/jinoo0306">@jinoo0306</a></td>
+    <td><a href="https://github.com/Gihwan2">@Gihwan2</a></td>
+    <td><a href="https://github.com/kimzini">@kimzini</a></td>
+    <td><a href="https://github.com/BMHowon">@BMHowon</a></td>
+    <td><a href="https://github.com/Youth-one">@Youth-one</a></td>
+    <td><a href="https://github.com/ukongee">@ukongee</a></td>
+  </tr>
+</table>
 <br>
