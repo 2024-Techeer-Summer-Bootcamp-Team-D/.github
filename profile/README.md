@@ -247,9 +247,9 @@
   |:---------:|:-----------------:|
   |<img width="1000" alt="Django" src="">|<img width="1000" alt="Djangor" src="">
   |**cAdvisor**|****|
-  |<img width="1000" alt="cAdvisor" src="https://github.com/user-attachments/assets/5a1d21e4-bb17-4579-9577-c06864a79302">|<img width="1000" alt="cAdvisor2" src="">
+  |<img width="1000" alt="cAdvisor" src="">|<img width="1000" alt="cAdvisor2" src="">
   |**Node Exporter**|****|
-  |<img width="1000" alt="Node Exporter" src="">|<img width="1000" alt="Node Exporter2" src="https://github.com/user-attachments/assets/da1d15d4-b34d-4d72-910c-c768a2a70534">
+  |<img width="1000" alt="Node Exporter" src="">|<img width="1000" alt="Node Exporter2" src="">
   
   <br>
   
