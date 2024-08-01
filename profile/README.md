@@ -1,8 +1,7 @@
 <h1 align="center">🎧 MV Studio 🎧</h1>
 <div align="center"> 
 <h3><b>Let's Create Music videos and Share them Together! </b></h3><br>
-<img width="11000" src="https://github.com/user-attachments/assets/5cb8baea-82ee-4aa8-878d-d3202e7f6277">
-
+<img width="1503" src="https://github.com/user-attachments/assets/6c1eda27-0075-4af3-989d-e2d0a24452c3">
 <h3><b>MV Studio를 통해 창의적인 아이디어를 실현해 보세요!</b></h3>
 
 <br>
