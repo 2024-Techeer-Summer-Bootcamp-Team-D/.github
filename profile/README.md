@@ -339,19 +339,147 @@ $ docker-compose -f docker-compose.prod.yml -f docker-compose.monitoring.yml up 
 <pre>
 <code>
 
-📦MVStudio-Docker  
+📦MVStudio-Docker
+┣ 📂.github
+┣ 📂.idea
+┣ 📂alertmanager
+┣ 📂certbot
+┣ 📂elk
+┣ 📂grafana
+┃ ┗ 📂data
+┣ 📂nginx
+┃ ┣ 📂app
+┃ ┣ 📂logs
+┃ ┣ 📜Dockerfile
+┃ ┗ 📜nginx.conf
+┣ 📂prometheus
+┃ ┣ 📜alert-rules.yml
+┃ ┗ 📜prometheus.yml
+┣ 📂rds_exporter
+┃ ┣ 📂basic
+┃ ┣ 📂client
+┃ ┣ 📂config
+┃ ┣ 📂enhanced
+┃ ┣ 📂sessions
+┃ ┣ 📂tools
+┃ ┣ 📜.gitignore
+┃ ┣ 📜.golangci-required.yml
+┃ ┣ 📜.golangci.yml
+┃ ┣ 📜.goreleaser.yml
+┃ ┣ 📜CHANGELOG.md
+┃ ┣ 📜Dockerfile
+┃ ┣ 📜Dockerfile.releaser
+┃ ┣ 📜LICENSE
+┃ ┣ 📜Makefile
+┃ ┣ 📜VERSION
+┃ ┣ 📜config.tests.yml
+┃ ┣ 📜go.mod
+┃ ┣ 📜go.sum
+┃ ┗ 📜main.go
+┣ 📜.DS_Store
+┣ 📜.env
+┣ 📜.gitignore
+┣ 📜.gitmessage.txt
+┣ 📜.gitmodules
+┣ 📜README.md
+┣ 📜docker-compose-dev.yml
+┣ 📜docker-compose-prod.yml
+┣ 📜docker-compose.elk.yml
+┣ 📜docker-compose.monitoring.yml
+┣ 📜docker-compose.prod.yml
+┗ 📜init-letsencrypt.sh
 
 </code>
 </pre>
 </details>
 
+MVStudio-DOcker
 
 <details>
     <summary>MVStudio-Frontend</summary>
 <pre>
 <code>
 
-📦MVStudio-Frontend  
+📦MVStudio-Frontend
+ ┣ 📂.github
+ ┣ 📂.idea
+ ┣ 📂dist
+ ┣ 📂node_modules
+ ┣ 📂src
+ ┃ ┣ 📂api
+ ┃ ┃ ┣ 📜axios.config.js
+ ┃ ┃ ┣ 📜charts.js
+ ┃ ┃ ┣ 📜member.js
+ ┃ ┃ ┣ 📜musicVideos.js
+ ┃ ┃ ┣ 📜onboarding.js
+ ┃ ┃ ┣ 📜play.js
+ ┃ ┃ ┗ 📜search.js
+ ┃ ┣ 📂assets
+ ┃ ┃ ┣ 📂font
+ ┃ ┃ ┃ ┗ 📜SUIT-Variable.ttf
+ ┃ ┃ ┗ 📜image.js
+ ┃ ┣ 📂components
+ ┃ ┃ ┣ 📂search
+ ┃ ┃ ┃ ┗ 📜LongCover.jsx
+ ┃ ┃ ┣ 📜BasicTaps.jsx
+ ┃ ┃ ┣ 📜GenreSwiper.jsx
+ ┃ ┃ ┣ 📜InstSwiper.jsx
+ ┃ ┃ ┣ 📜Navbar.jsx
+ ┃ ┃ ┣ 📜Service.jsx
+ ┃ ┃ ┣ 📜Sidebar.jsx
+ ┃ ┃ ┗ 📜StyleSwiper.jsx
+ ┃ ┣ 📂libs
+ ┃ ┃ ┗ 📂stores
+ ┃ ┃ ┃ ┗ 📜userStore.js
+ ┃ ┣ 📂pages
+ ┃ ┃ ┣ 📂auth
+ ┃ ┃ ┃ ┣ 📜Auth.jsx
+ ┃ ┃ ┃ ┣ 📜Register.jsx
+ ┃ ┃ ┃ ┗ 📜SaveTokens.jsx
+ ┃ ┃ ┣ 📂main
+ ┃ ┃ ┃ ┣ 📜Header.jsx
+ ┃ ┃ ┃ ┣ 📜Main.jsx
+ ┃ ┃ ┃ ┗ 📜VideoItem.jsx
+ ┃ ┃ ┣ 📂play
+ ┃ ┃ ┃ ┣ 📜Play.jsx
+ ┃ ┃ ┃ ┗ 📜VideoPlayer.jsx
+ ┃ ┃ ┣ 📂user
+ ┃ ┃ ┃ ┣ 📜EditProfile.jsx
+ ┃ ┃ ┃ ┣ 📜Mypage.jsx
+ ┃ ┃ ┃ ┗ 📜YtChannelRegister.jsx
+ ┃ ┃ ┣ 📜AppRouter.jsx
+ ┃ ┃ ┣ 📜Create.jsx
+ ┃ ┃ ┣ 📜LyricsSelect.jsx
+ ┃ ┃ ┣ 📜OnBoardingPage.jsx
+ ┃ ┃ ┣ 📜Pay.jsx
+ ┃ ┃ ┣ 📜Search.jsx
+ ┃ ┃ ┣ 📜Upload.jsx
+ ┃ ┃ ┣ 📜User.jsx
+ ┃ ┃ ┗ 📜ViewChart.jsx
+ ┃ ┣ 📂styles
+ ┃ ┃ ┣ 📜GlobalStyles.js
+ ┃ ┃ ┣ 📜index.css
+ ┃ ┃ ┗ 📜swal.config.css
+ ┃ ┣ 📂utils
+ ┃ ┃ ┣ 📜cookies.js
+ ┃ ┃ ┗ 📜igonerePath.js
+ ┃ ┣ 📜App.jsx
+ ┃ ┗ 📜main.jsx
+ ┣ 📜.dockerignore
+ ┣ 📜.env
+ ┣ 📜.eslintrc.cjs
+ ┣ 📜.git
+ ┣ 📜.gitignore
+ ┣ 📜.gitmessage.txt
+ ┣ 📜.prettierrc
+ ┣ 📜Dockerfile
+ ┣ 📜README.md
+ ┣ 📜eslint.config.js
+ ┣ 📜index.html
+ ┣ 📜jsconfig.json
+ ┣ 📜package-lock.json
+ ┣ 📜package.json
+ ┗ 📜vite.config.js
 
 </code>
 </pre>
@@ -362,7 +490,75 @@ $ docker-compose -f docker-compose.prod.yml -f docker-compose.monitoring.yml up 
 <pre>
 <code>
 
-📦MVStudio-Backend  
+📦MVStudio-Backend
+┣ 📂.github
+┣ 📂.idea
+┣ 📂charts
+┃ ┣ 📂__pycache__
+┃ ┣ 📜__init__.py
+┃ ┣ 📜admin.py
+┃ ┣ 📜apps.py
+┃ ┣ 📜models.py
+┃ ┣ 📜tests.py
+┃ ┣ 📜urls.py
+┃ ┗ 📜views.py
+┣ 📂config
+┃ ┣ 📂__pycache__
+┃ ┣ 📜__init__.py
+┃ ┣ 📜asgi.py
+┃ ┣ 📜celery.py
+┃ ┣ 📜settings.py
+┃ ┣ 📜urls.py
+┃ ┗ 📜wsgi.py
+┣ 📂logs
+┣ 📂member
+┃ ┣ 📂__pycache__
+┃ ┣ 📜__init__.py
+┃ ┣ 📜admin.py
+┃ ┣ 📜apps.py
+┃ ┣ 📜callback.py
+┃ ┣ 📜constants.py
+┃ ┣ 📜models.py
+┃ ┣ 📜payment.py
+┃ ┣ 📜serializers.py
+┃ ┣ 📜tests.py
+┃ ┣ 📜urls.py
+┃ ┗ 📜views.py
+┣ 📂music_videos
+┃ ┣ 📂__pycache__
+┃ ┣ 📜admin.py
+┃ ┣ 📜apps.py
+┃ ┣ 📜documents.py
+┃ ┣ 📜models.py
+┃ ┣ 📜s3_utils.py
+┃ ┣ 📜serializers.py
+┃ ┣ 📜tasks.py
+┃ ┣ 📜tests.py
+┃ ┣ 📜urls.py
+┃ ┗ 📜views.py
+┣ 📂oauth
+┃ ┣ 📂__pycache__
+┃ ┣ 📜admin.py
+┃ ┣ 📜apis.py
+┃ ┣ 📜apps.py
+┃ ┣ 📜authenticate.py
+┃ ┣ 📜handler.py
+┃ ┣ 📜mixins.py
+┃ ┣ 📜models.py
+┃ ┣ 📜services.py
+┃ ┣ 📜tests.py
+┃ ┣ 📜urls.py
+┃ ┣ 📜utils.py
+┃ ┗ 📜views.py
+┣ 📜.env
+┣ 📜.git
+┣ 📜.gitignore
+┣ 📜.gitmessage.txt
+┣ 📜Dockerfile
+┣ 📜README.md
+┣ 📜manage.py
+┗ 📜requirements.txt
+
 
 </code>
 </pre>
