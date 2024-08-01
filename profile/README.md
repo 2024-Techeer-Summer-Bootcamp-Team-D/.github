@@ -95,7 +95,7 @@
 
 <br>
 
-### Analyzing my channel
+### Analyzing My Channel
 > 사용자는 자신이 만든 뮤직비디오의 시청 추이를 날짜별 조회수, 성별, 국가별, 연령대별 차트로 분석할 수 있습니다.
 <br>
 <img align="center" width="1000" alt="" src="https://github.com/user-attachments/assets/5c873ef6-f61a-471d-8155-4aca7de01df9">
@@ -249,15 +249,13 @@
   
   <br>
   
-  |**Cloud Watch**|
-  |:---------:|
-  |<img width="1000" alt="Cloud Watch" src="https://github.com/user-attachments/assets/8d5293c1-ec6e-4743-b3b9-06c44a94c575">|
+  <h3 align="left">Cloud Watch</h3>
+  <img width="1000" alt="Cloud Watch" src="https://github.com/user-attachments/assets/8d5293c1-ec6e-4743-b3b9-06c44a94c575">
   
   <br>
   
-  |**ELK**|
-  |:---------:|
-  |<img width="1000" alt="ELK2" src="https://github.com/user-attachments/assets/3e5d7125-2a92-44d4-bd33-eba6bbd4ac15">|
+  <h3 align="left">ELK</h3>
+  <img width="1000" alt="ELK2" src="https://github.com/user-attachments/assets/3e5d7125-2a92-44d4-bd33-eba6bbd4ac15">
 </div>
 
 <br>
