@@ -57,7 +57,8 @@
 <br>
 
 ### Main Page
-> 다른 사람들의 뮤직비디오를 시청할 수 있으며, 최신순, 조회수순, 급상승, 자신의 국가와 나이대에서 인기순으로 목록을 조회할 수 있습니다.
+> 다른 사람들의 뮤직비디오를 시청할 수 있습니다.<br>
+> 최신순, 조회수순, 급상승, 자신의 국가와 나이대별 인기순으로 목록 조회 할 수 있습니다.
 <br>
 <img align="center" width="1000" alt="" src="https://github.com/user-attachments/assets/b21859ca-1641-4086-b497-2432bf3122f7">
 
@@ -87,7 +88,7 @@
 <br>
   
 ### My Page
-> 사용자는 마이페이지에서 자신이 만든 뮤직비디오와 최근에 시청한 뮤직비디오를 확인할 수 있습니다.
+> 사용자는 마이페이지에서 자신이 만든 뮤직비디오와 최근에 시청한 뮤직비디오를 확인할 수 있습니다.<br>
 > 인스타그램과 유튜브 버튼을 통해 자신의 인스타그램과 유튜브 계정으로 바로 이동할 수 있습니다.
 <br>
 <img align="center" width="1000" alt="" src="https://github.com/user-attachments/assets/db9365d8-7e89-4de1-9886-d03406757de0">
@@ -241,9 +242,14 @@
 <div align="center">
   <h3 align="left">Prometheus & Grafana</h3>
   
-  |**cAdvisor**|**Node Exporter**|
+
+  |**Django**|****|
   |:---------:|:-----------------:|
-  |<img width="1000" alt="cAdvisor" src="https://github.com/user-attachments/assets/5a1d21e4-bb17-4579-9577-c06864a79302">|<img width="1000" alt="Node Exporter" src="https://github.com/user-attachments/assets/da1d15d4-b34d-4d72-910c-c768a2a70534">
+  |<img width="1000" alt="Django" src="">|<img width="1000" alt="Djangor" src="">
+  |**cAdvisor**|****|
+  |<img width="1000" alt="cAdvisor" src="https://github.com/user-attachments/assets/5a1d21e4-bb17-4579-9577-c06864a79302">|<img width="1000" alt="cAdvisor2" src="">
+  |**Node Exporter**|****|
+  |<img width="1000" alt="Node Exporter" src="">|<img width="1000" alt="Node Exporter2" src="https://github.com/user-attachments/assets/da1d15d4-b34d-4d72-910c-c768a2a70534">
   
   <br>
   
@@ -564,7 +570,6 @@ $ docker-compose -f docker-compose.prod.yml -f docker-compose.monitoring.yml up 
 <br>
 
 # 👥 Team Members
-<h2>👥 Team Members</h2>
 <table>
   <tr>
     <th>Name</th>
