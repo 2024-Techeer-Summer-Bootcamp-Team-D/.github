@@ -239,23 +239,24 @@
 
   |**Django**||
   |:---------:|:-----------------:|
-  |<img width="1000" alt="Django" src="">|<img width="1000" alt="Django2" src="">
+  |<img width="1000" alt="Django" src="https://github.com/user-attachments/assets/07339efc-48c9-4b9d-b6a1-ea19910eb1db">|<img width="1000" alt="Django2" src="https://github.com/user-attachments/assets/e4099e6f-7463-4b95-af36-f1690b917073">
   |**Celery**||
-  |<img width="1000" alt="Celery" src="">|<img width="1000" alt="Celery2" src="">
+  |<img width="1000" alt="Celery" src="https://github.com/user-attachments/assets/fa28316e-e970-4135-904c-4ad33acba09d">|<img width="1000" alt="Celery2" src="https://github.com/user-attachments/assets/147d696f-7ff6-40b9-b616-0e28af433d3f">
   |**cAdvisor**||
-  |<img width="1000" alt="cAdvisor" src="">|<img width="1000" alt="cAdvisor2" src="">
+  |<img width="1000" alt="cAdvisor" src="https://github.com/user-attachments/assets/b93021b8-a7c5-4943-bcd3-e1d4bd368b1b">|<img width="1000" alt="cAdvisor2" src="https://github.com/user-attachments/assets/fd92cd24-9a2b-49e4-abaf-c58b7612c4b1">
   |**Node Exporter**||
-  |<img width="1000" alt="Node Exporter" src="">|<img width="1000" alt="Node Exporter2" src="">
+  |<img width="1000" alt="Node Exporter" src="https://github.com/user-attachments/assets/337fa024-9a4c-4ac3-a6b5-a469d17db4a8">|<img width="1000" alt="Node Exporter2" src="https://github.com/user-attachments/assets/0828286c-a4a5-4fb5-84be-4af5c9fcae90">
   
   <br>
   
-  <h3 align="left">Cloud Watch</h3>
+  <h3 align="left">Cloud Watch</h3>
   <img width="1000" alt="Cloud Watch" src="https://github.com/user-attachments/assets/8d5293c1-ec6e-4743-b3b9-06c44a94c575">
   
   <br>
   
   <h3 align="left">ELK</h3>
   <img width="1000" alt="ELK2" src="https://github.com/user-attachments/assets/3e5d7125-2a92-44d4-bd33-eba6bbd4ac15">
+  
 </div>
 
 <br>
