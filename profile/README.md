@@ -393,8 +393,6 @@ $ docker-compose -f docker-compose.prod.yml -f docker-compose.monitoring.yml up 
 </pre>
 </details>
 
-MVStudio-DOcker
-
 <details>
     <summary>MVStudio-Frontend</summary>
 <pre>
