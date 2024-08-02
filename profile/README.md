@@ -45,7 +45,7 @@
 # 🕺🏻 Demo
 ### Onboarding Page
 > MV Studio의 간략한 설명을 담고 있습니다.
-<img align="center" width="1000" alt="Onboarding Page" src="https://github.com/user-attachments/assets/39f6008d-2706-4ea6-a702-c943bdfb37a0">
+<img align="center" width="1000" alt="New GIF" src="https://i.ibb.co/7bk96xf/2024-08-03-2-2.gif">
 
 
 ### Login & Sign up
