@@ -128,7 +128,7 @@
 
 # 🛠 ️System Architecture <a name="-system-architecture"></a>
 <div align="center">
-  <img align="center" width="1000" src="https://github.com/user-attachments/assets/4d787a65-837f-42ff-b922-e470210ea897">
+  <img align="center" width="1000" src="https://github.com/user-attachments/assets/9df3ac9f-c4dc-4805-9561-6482acee8fea">
 </div>
 <br><br>
 
