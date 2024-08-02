@@ -309,7 +309,11 @@ INIT_INDEX=
 ```
 * MVStudio-Frontend/.env
 ```
+# 개발 서버 주소
 VITE_REACT_APP_BASE_URL =
+
+# 뮤직 비디오 생성 가능 여부
+VITE_REACT_APP_IS_OPERATE = true
 ```
 * MVStudio-Backend/.env
 ```
