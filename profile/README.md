@@ -349,7 +349,7 @@ CID=
 
 ### 3. Run Docker
 ```
-$ docker-compose -f docker-compose.prod.yml -f docker-compose.monitoring.yml up -d --build
+cd MVStudio-Frontend && npm install && npm run build && cd .. && docker-compose -f docker-compose.prod.yml -f docker-compose.monitoring.yml up -d --build
 ```
 <br>
 
