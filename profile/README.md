@@ -51,7 +51,7 @@
 ### Login & Sign up
 > 구글 소셜 로그인 및 회원가입을 통해 손쉽게 로그인하실 수 있습니다.
 <br>
-<img align="center" width="1000" alt="Login & Sign up" src="https://github.com/2024-Techeer-Summer-Bootcamp-Team-D/.github/blob/main/images/%E1%84%92%E1%85%AA%E1%84%86%E1%85%A7%E1%86%AB%20%E1%84%80%E1%85%B5%E1%84%85%E1%85%A9%E1%86%A8%202024-08-03%20%E1%84%8B%E1%85%A9%E1%84%8C%E1%85%A5%E1%86%AB%206%20(1).gif">
+<img align="center" width="1000" alt="Login & Sign up" src="https://github.com/user-attachments/assets/a80f83ab-90b0-41bb-8927-143d27dcda51">
 
 <br>
 
@@ -59,7 +59,7 @@
 > 다른 사람들의 뮤직비디오를 시청할 수 있습니다.<br>
 > 최신순, 조회수순, 급상승, 자신의 국가와 나이대별 인기순으로 목록 조회 할 수 있습니다.
 <br>
-<img align="center" width="1000" alt="" src="https://github.com/user-attachments/assets/b21859ca-1641-4086-b497-2432bf3122f7">
+<img align="center" width="1000" alt="Login & Sign up" src="https://github.com/2024-Techeer-Summer-Bootcamp-Team-D/.github/blob/main/images/%E1%84%92%E1%85%AA%E1%84%86%E1%85%A7%E1%86%AB%20%E1%84%80%E1%85%B5%E1%84%85%E1%85%A9%E1%86%A8%202024-08-03%20%E1%84%8B%E1%85%A9%E1%84%8C%E1%85%A5%E1%86%AB%206%20(1).gif">
 
 <br>
 
@@ -74,7 +74,7 @@
 > 사용자는 장르, 악기, 영상 스타일, 제목, 보컬, 언어, 템포를 직접 설정하여 뮤직비디오를 생성할 수 있습니다.<br>
 > 선택한 설정을 바탕으로 제공되는 세 개의 가사 중 원하는 가사를 선택하면 해당 가사로 뮤직비디오가 생성됩니다.
 <br>
-<img align="center" width="1000" alt="" src="https://github.com/user-attachments/assets/6f9b6aeb-3b19-48b4-8dae-acf7af4c07b1">
+<img align="center" width="1000" alt="" src="https://github.com/user-attachments/assets/51f989da-4dcb-4607-aefe-b505e22a2ac4">
 
 <br>
 
@@ -104,7 +104,7 @@
 ### Upload Music Video
 > 사용자는 자신의 뮤직비디오를 유튜브에 업로드할 수 있습니다.
 <br>
-<img align="center" width="1000" alt="" src="https://github.com/user-attachments/assets/1593e304-c1c6-47fd-a753-c34485299531">
+<img align="center" width="1000" alt="" src="https://github.com/user-attachments/assets/bb63268f-655f-4511-a618-81ec54150e05">
 
 <br>
 
