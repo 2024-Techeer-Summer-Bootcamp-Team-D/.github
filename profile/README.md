@@ -194,7 +194,7 @@
     <tr>
       <td><b>AI</b></td>
       <td>
-        <img src="https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white">
+        <img src="https://img.shields.io/badge/OpenAI-74aa9c?style=for-the-badge&logo=openai&logoColor=white">
         <img src="https://img.shields.io/badge/Suno-000000?style=for-the-badge&logo=Suno&logoColor=black&logoColor=white">
         <img src="https://img.shields.io/badge/runway-8947A8?style=for-the-badge&logoColor=black">
       </td>
