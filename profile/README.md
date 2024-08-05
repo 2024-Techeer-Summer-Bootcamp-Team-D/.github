@@ -49,6 +49,7 @@
 <img align="center" width="1000" alt="Onboarding" src="https://github.com/2024-Techeer-Summer-Bootcamp-Team-D/.github/blob/main/images/%E1%84%92%E1%85%AA%E1%84%86%E1%85%A7%E1%86%AB-%E1%84%80%E1%85%B5%E1%84%85%E1%85%A9%E1%86%A8-2024-08-03-%E1%84%8B%E1%85%A9%E1%84%8C%E1%85%A5%E1%86%AB-2%20(2).gif">
 
 
+
 ### Login & Sign up
 > 구글 소셜 로그인 및 회원가입을 통해 손쉽게 로그인하실 수 있습니다.
 <br>
@@ -75,7 +76,7 @@
 > 사용자는 장르, 악기, 영상 스타일, 제목, 보컬, 언어, 템포를 직접 설정하여 뮤직비디오를 생성할 수 있습니다.<br>
 > 선택한 설정을 바탕으로 제공되는 세 개의 가사 중 원하는 가사를 선택하면 해당 가사로 뮤직비디오가 생성됩니다.
 <br>
-<img align="center" width="1000" alt="" src="https://github.com/user-attachments/assets/51f989da-4dcb-4607-aefe-b505e22a2ac4">
+<img align="center" width="1000" alt="" src="https://github.com/user-attachments/assets/7ec0a76d-8998-4913-89f7-72f8d6e0590c">
 
 <br>
 
