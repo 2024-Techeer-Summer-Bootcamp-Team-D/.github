@@ -589,7 +589,7 @@ cd MVStudio-Frontend && npm install && npm run build && cd .. && docker-compose 
 <table>
   <tr>
     <th>Name</th>
-    <th>조진우</th>
+    <th >조진우</th>
     <th>강기환</th>
     <th>김진희</th>
     <th>박유경</th>
@@ -598,12 +598,12 @@ cd MVStudio-Frontend && npm install && npm run build && cd .. && docker-compose 
   </tr>
   <tr>
     <th>Profile</th>
-    <td><img src="https://github.com/jinoo0306.png" style="width:120px;height:120px;"></td>
-    <td><img src="https://github.com/GiHwan2.png" style="width:120px;height:120px;"></td>
-    <td><img src="https://github.com/kimzini.png" style="width:120px;height:120px;"></td>
-    <td><img src="https://github.com/ukongee.png" style="width:120px;height:120px;"></td>
-    <td><img src="https://github.com/Youth-one.png" style="width:120px;height:120px;"></td>
-    <td><img src="https://github.com/BMHowon.png" style="width:120px;height:120px;"></td>
+      <td style="text-align:center; vertical-align:middle;"><img src="https://github.com/jinoo0306.png" style="width:100px;height:100px;"></td>
+      <td style="text-align:center; vertical-align:middle;"><img src="https://github.com/GiHwan2.png" style="width:100px;height:100px;"></td>
+      <td style="text-align:center; vertical-align:middle;"><img src="https://github.com/kimzini.png" style="width:100px;height:100px;"></td>
+      <td style="text-align:center; vertical-align:middle;"><img src="https://github.com/ukongee.png" style="width:100px;height:100px;"></td>
+      <td style="text-align:center; vertical-align:middle;"><img src="https://github.com/Youth-one.png" style="width:100px;height:100px;"></td>
+      <td style="text-align:center; vertical-align:middle;"><img src="https://github.com/BMHowon.png" style="width:100px;height:100px;"></td>
   </tr>
   <tr>
     <th>Role</th>
