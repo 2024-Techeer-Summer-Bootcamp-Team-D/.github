@@ -1,9 +1,9 @@
 <h4 align="center">🏆 2024 Techeer Summer BootCamp 1st Place Award 🏆</h1>
-<h1 align="center">🎧 MV Studio 🎧</h1>
+<h1 align="center">🎧 MVStudio 🎧</h1>
 <div align="center"> 
 <h3><b>Let's Create Music videos and Share them Together! </b></h3><br>
 <img width="1503" src="https://github.com/user-attachments/assets/6c1eda27-0075-4af3-989d-e2d0a24452c3">
-<h3><b>MV Studio를 통해 창의적인 아이디어를 실현해 보세요!</b></h3>
+<h3><b>MVStudio를 통해 창의적인 아이디어를 실현해 보세요!</b></h3>
 
 <br>
 
@@ -45,7 +45,7 @@
 
 # 🕺🏻 Demo
 ### Onboarding Page
-> MV Studio의 간략한 설명을 담고 있습니다.
+> MVStudio의 간략한 설명을 담고 있습니다.
 <img align="center" width="1000" alt="Onboarding" src="https://github.com/2024-Techeer-Summer-Bootcamp-Team-D/.github/blob/main/images/%E1%84%92%E1%85%AA%E1%84%86%E1%85%A7%E1%86%AB-%E1%84%80%E1%85%B5%E1%84%85%E1%85%A9%E1%86%A8-2024-08-03-%E1%84%8B%E1%85%A9%E1%84%8C%E1%85%A5%E1%86%AB-2%20(2).gif">
 
 
