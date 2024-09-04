@@ -27,7 +27,7 @@
 
 # 📣 Introduction
 ### URL
-> 🖥️ [MVStudio](https://mvstudio.pro)
+> 🖥️ [MVStudio](https://mvstudio.pro) (배포 중단)
 
 ### Medium
 > 🔎 [MVStudio Medium](https://medium.com/@jinoo0306/ai%EA%B0%80-%EB%A7%8C%EB%93%A4%EC%96%B4-%EC%A3%BC%EB%8A%94-%EB%AE%A4%EC%A7%81-%EB%B9%84%EB%94%94%EC%98%A4-%EC%84%9C%EB%B9%84%EC%8A%A4-mvstudio-fc098ae02a08) &nbsp;
